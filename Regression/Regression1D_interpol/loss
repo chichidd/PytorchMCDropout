@@ -1,0 +1,4005 @@
+Begin training...
+Train Epoch: 1 [0/490 (0%)] lr: 0.001	Loss: 0.950280
+
+Finish 1 epoch(s). Epoch loss: 2.0662779435515404.  Time of epoch:0:00:00.040733
+
+Train Epoch: 2 [0/490 (0%)] lr: 0.001	Loss: 0.789181
+
+Finish 2 epoch(s). Epoch loss: 0.8631707578897476.  Time of epoch:0:00:00.036816
+
+Train Epoch: 3 [0/490 (0%)] lr: 0.001	Loss: 0.842672
+
+Finish 3 epoch(s). Epoch loss: 0.7456212490797043.  Time of epoch:0:00:00.044240
+
+Train Epoch: 4 [0/490 (0%)] lr: 0.001	Loss: 0.655775
+
+Finish 4 epoch(s). Epoch loss: 0.7309556528925896.  Time of epoch:0:00:00.040622
+
+Train Epoch: 5 [0/490 (0%)] lr: 0.001	Loss: 0.722927
+
+Finish 5 epoch(s). Epoch loss: 0.7015243694186211.  Time of epoch:0:00:00.046934
+
+Train Epoch: 6 [0/490 (0%)] lr: 0.001	Loss: 0.716448
+
+Finish 6 epoch(s). Epoch loss: 0.6943878680467606.  Time of epoch:0:00:00.056742
+
+Train Epoch: 7 [0/490 (0%)] lr: 0.001	Loss: 0.792119
+
+Finish 7 epoch(s). Epoch loss: 0.6884745955467224.  Time of epoch:0:00:00.039698
+
+Train Epoch: 8 [0/490 (0%)] lr: 0.001	Loss: 0.720086
+
+Finish 8 epoch(s). Epoch loss: 0.6764542162418365.  Time of epoch:0:00:00.037289
+
+Train Epoch: 9 [0/490 (0%)] lr: 0.001	Loss: 0.659714
+
+Finish 9 epoch(s). Epoch loss: 0.6732079014182091.  Time of epoch:0:00:00.042652
+
+Train Epoch: 10 [0/490 (0%)] lr: 0.001	Loss: 0.897563
+
+Finish 10 epoch(s). Epoch loss: 0.6666341908276081.  Time of epoch:0:00:00.033652
+
+Train Epoch: 11 [0/490 (0%)] lr: 0.001	Loss: 0.781041
+
+Finish 11 epoch(s). Epoch loss: 0.6693387776613235.  Time of epoch:0:00:00.032125
+
+Train Epoch: 12 [0/490 (0%)] lr: 0.001	Loss: 0.815937
+
+Finish 12 epoch(s). Epoch loss: 0.6621132642030716.  Time of epoch:0:00:00.047591
+
+Train Epoch: 13 [0/490 (0%)] lr: 0.001	Loss: 0.699341
+
+Finish 13 epoch(s). Epoch loss: 0.6433840394020081.  Time of epoch:0:00:00.034139
+
+Train Epoch: 14 [0/490 (0%)] lr: 0.001	Loss: 0.559891
+
+Finish 14 epoch(s). Epoch loss: 0.6407362297177315.  Time of epoch:0:00:00.036619
+
+Train Epoch: 15 [0/490 (0%)] lr: 0.001	Loss: 0.596196
+
+Finish 15 epoch(s). Epoch loss: 0.6413567326962948.  Time of epoch:0:00:00.052336
+
+Train Epoch: 16 [0/490 (0%)] lr: 0.001	Loss: 0.758757
+
+Finish 16 epoch(s). Epoch loss: 0.6143050603568554.  Time of epoch:0:00:00.041320
+
+Train Epoch: 17 [0/490 (0%)] lr: 0.001	Loss: 0.570914
+
+Finish 17 epoch(s). Epoch loss: 0.6178566515445709.  Time of epoch:0:00:00.034141
+
+Train Epoch: 18 [0/490 (0%)] lr: 0.001	Loss: 0.500853
+
+Finish 18 epoch(s). Epoch loss: 0.6074581928551197.  Time of epoch:0:00:00.040438
+
+Train Epoch: 19 [0/490 (0%)] lr: 0.001	Loss: 0.497411
+
+Finish 19 epoch(s). Epoch loss: 0.577825915068388.  Time of epoch:0:00:00.031570
+
+Train Epoch: 20 [0/490 (0%)] lr: 0.001	Loss: 0.430805
+
+Finish 20 epoch(s). Epoch loss: 0.6018136516213417.  Time of epoch:0:00:00.037232
+
+Train Epoch: 21 [0/490 (0%)] lr: 0.001	Loss: 0.518317
+
+Finish 21 epoch(s). Epoch loss: 0.5830540843307972.  Time of epoch:0:00:00.052837
+
+Train Epoch: 22 [0/490 (0%)] lr: 0.001	Loss: 0.577599
+
+Finish 22 epoch(s). Epoch loss: 0.5874454453587532.  Time of epoch:0:00:00.056014
+
+Train Epoch: 23 [0/490 (0%)] lr: 0.001	Loss: 0.648411
+
+Finish 23 epoch(s). Epoch loss: 0.6136195175349712.  Time of epoch:0:00:00.044613
+
+Train Epoch: 24 [0/490 (0%)] lr: 0.001	Loss: 0.627774
+
+Finish 24 epoch(s). Epoch loss: 0.6182508282363415.  Time of epoch:0:00:00.056414
+
+Train Epoch: 25 [0/490 (0%)] lr: 0.001	Loss: 0.625352
+
+Finish 25 epoch(s). Epoch loss: 0.5742542743682861.  Time of epoch:0:00:00.044496
+
+Train Epoch: 26 [0/490 (0%)] lr: 0.001	Loss: 0.532050
+
+Finish 26 epoch(s). Epoch loss: 0.5338405258953571.  Time of epoch:0:00:00.045833
+
+Train Epoch: 27 [0/490 (0%)] lr: 0.001	Loss: 0.506110
+
+Finish 27 epoch(s). Epoch loss: 0.5214223600924015.  Time of epoch:0:00:00.064835
+
+Train Epoch: 28 [0/490 (0%)] lr: 0.001	Loss: 0.514173
+
+Finish 28 epoch(s). Epoch loss: 0.5224909484386444.  Time of epoch:0:00:00.048190
+
+Train Epoch: 29 [0/490 (0%)] lr: 0.001	Loss: 0.490081
+
+Finish 29 epoch(s). Epoch loss: 0.5260648615658283.  Time of epoch:0:00:00.049877
+
+Train Epoch: 30 [0/490 (0%)] lr: 0.001	Loss: 0.564229
+
+Finish 30 epoch(s). Epoch loss: 0.5170652121305466.  Time of epoch:0:00:00.058246
+
+Train Epoch: 31 [0/490 (0%)] lr: 0.001	Loss: 0.490821
+
+Finish 31 epoch(s). Epoch loss: 0.4904111623764038.  Time of epoch:0:00:00.047542
+
+Train Epoch: 32 [0/490 (0%)] lr: 0.001	Loss: 0.454851
+
+Finish 32 epoch(s). Epoch loss: 0.4886006526648998.  Time of epoch:0:00:00.058794
+
+Train Epoch: 33 [0/490 (0%)] lr: 0.001	Loss: 0.526636
+
+Finish 33 epoch(s). Epoch loss: 0.46782566234469414.  Time of epoch:0:00:00.044466
+
+Train Epoch: 34 [0/490 (0%)] lr: 0.001	Loss: 0.447276
+
+Finish 34 epoch(s). Epoch loss: 0.47360850870609283.  Time of epoch:0:00:00.044277
+
+Train Epoch: 35 [0/490 (0%)] lr: 0.001	Loss: 0.462746
+
+Finish 35 epoch(s). Epoch loss: 0.479973666369915.  Time of epoch:0:00:00.061986
+
+Train Epoch: 36 [0/490 (0%)] lr: 0.001	Loss: 0.479187
+
+Finish 36 epoch(s). Epoch loss: 0.4780602566897869.  Time of epoch:0:00:00.045002
+
+Train Epoch: 37 [0/490 (0%)] lr: 0.001	Loss: 0.442910
+
+Finish 37 epoch(s). Epoch loss: 0.49492573738098145.  Time of epoch:0:00:00.055526
+
+Train Epoch: 38 [0/490 (0%)] lr: 0.001	Loss: 0.541077
+
+Finish 38 epoch(s). Epoch loss: 0.4149343781173229.  Time of epoch:0:00:00.044813
+
+Train Epoch: 39 [0/490 (0%)] lr: 0.001	Loss: 0.290095
+
+Finish 39 epoch(s). Epoch loss: 0.42755119502544403.  Time of epoch:0:00:00.056085
+
+Train Epoch: 40 [0/490 (0%)] lr: 0.001	Loss: 0.532867
+
+Finish 40 epoch(s). Epoch loss: 0.47748927026987076.  Time of epoch:0:00:00.051500
+
+Train Epoch: 41 [0/490 (0%)] lr: 0.001	Loss: 0.419919
+
+Finish 41 epoch(s). Epoch loss: 0.45202499628067017.  Time of epoch:0:00:00.046093
+
+Train Epoch: 42 [0/490 (0%)] lr: 0.001	Loss: 0.537342
+
+Finish 42 epoch(s). Epoch loss: 0.4572896957397461.  Time of epoch:0:00:00.044682
+
+Train Epoch: 43 [0/490 (0%)] lr: 0.001	Loss: 0.376127
+
+Finish 43 epoch(s). Epoch loss: 0.4219599589705467.  Time of epoch:0:00:00.052692
+
+Train Epoch: 44 [0/490 (0%)] lr: 0.001	Loss: 0.434155
+
+Finish 44 epoch(s). Epoch loss: 0.43411629647016525.  Time of epoch:0:00:00.049897
+
+Train Epoch: 45 [0/490 (0%)] lr: 0.001	Loss: 0.390231
+
+Finish 45 epoch(s). Epoch loss: 0.4225898012518883.  Time of epoch:0:00:00.068810
+
+Train Epoch: 46 [0/490 (0%)] lr: 0.001	Loss: 0.362757
+
+Finish 46 epoch(s). Epoch loss: 0.417339202016592.  Time of epoch:0:00:00.050003
+
+Train Epoch: 47 [0/490 (0%)] lr: 0.001	Loss: 0.345024
+
+Finish 47 epoch(s). Epoch loss: 0.3908487819135189.  Time of epoch:0:00:00.048160
+
+Train Epoch: 48 [0/490 (0%)] lr: 0.001	Loss: 0.501960
+
+Finish 48 epoch(s). Epoch loss: 0.38581348583102226.  Time of epoch:0:00:00.061895
+
+Train Epoch: 49 [0/490 (0%)] lr: 0.001	Loss: 0.323683
+
+Finish 49 epoch(s). Epoch loss: 0.3563210815191269.  Time of epoch:0:00:00.047691
+
+Train Epoch: 50 [0/490 (0%)] lr: 0.001	Loss: 0.621542
+
+Finish 50 epoch(s). Epoch loss: 0.39436040818691254.  Time of epoch:0:00:00.047406
+
+Train Epoch: 51 [0/490 (0%)] lr: 0.001	Loss: 0.399789
+
+Finish 51 epoch(s). Epoch loss: 0.37059884145855904.  Time of epoch:0:00:00.049380
+
+Train Epoch: 52 [0/490 (0%)] lr: 0.001	Loss: 0.385556
+
+Finish 52 epoch(s). Epoch loss: 0.36430127173662186.  Time of epoch:0:00:00.048878
+
+Train Epoch: 53 [0/490 (0%)] lr: 0.001	Loss: 0.403193
+
+Finish 53 epoch(s). Epoch loss: 0.4096192829310894.  Time of epoch:0:00:00.048065
+
+Train Epoch: 54 [0/490 (0%)] lr: 0.001	Loss: 0.279890
+
+Finish 54 epoch(s). Epoch loss: 0.38378001004457474.  Time of epoch:0:00:00.051745
+
+Train Epoch: 55 [0/490 (0%)] lr: 0.001	Loss: 0.459440
+
+Finish 55 epoch(s). Epoch loss: 0.40677253901958466.  Time of epoch:0:00:00.052220
+
+Train Epoch: 56 [0/490 (0%)] lr: 0.001	Loss: 0.360036
+
+Finish 56 epoch(s). Epoch loss: 0.36828599870204926.  Time of epoch:0:00:00.044292
+
+Train Epoch: 57 [0/490 (0%)] lr: 0.001	Loss: 0.429363
+
+Finish 57 epoch(s). Epoch loss: 0.38442988507449627.  Time of epoch:0:00:00.072267
+
+Train Epoch: 58 [0/490 (0%)] lr: 0.001	Loss: 0.313182
+
+Finish 58 epoch(s). Epoch loss: 0.36058248579502106.  Time of epoch:0:00:00.046116
+
+Train Epoch: 59 [0/490 (0%)] lr: 0.001	Loss: 0.383888
+
+Finish 59 epoch(s). Epoch loss: 0.34691666439175606.  Time of epoch:0:00:00.057864
+
+Train Epoch: 60 [0/490 (0%)] lr: 0.001	Loss: 0.549155
+
+Finish 60 epoch(s). Epoch loss: 0.41074610874056816.  Time of epoch:0:00:00.045559
+
+Train Epoch: 61 [0/490 (0%)] lr: 0.001	Loss: 0.360656
+
+Finish 61 epoch(s). Epoch loss: 0.35213349759578705.  Time of epoch:0:00:00.057583
+
+Train Epoch: 62 [0/490 (0%)] lr: 0.001	Loss: 0.320931
+
+Finish 62 epoch(s). Epoch loss: 0.323210883885622.  Time of epoch:0:00:00.053857
+
+Train Epoch: 63 [0/490 (0%)] lr: 0.001	Loss: 0.389209
+
+Finish 63 epoch(s). Epoch loss: 0.3355361670255661.  Time of epoch:0:00:00.057689
+
+Train Epoch: 64 [0/490 (0%)] lr: 0.001	Loss: 0.294908
+
+Finish 64 epoch(s). Epoch loss: 0.3205331936478615.  Time of epoch:0:00:00.050115
+
+Train Epoch: 65 [0/490 (0%)] lr: 0.001	Loss: 0.236472
+
+Finish 65 epoch(s). Epoch loss: 0.318978164345026.  Time of epoch:0:00:00.054275
+
+Train Epoch: 66 [0/490 (0%)] lr: 0.001	Loss: 0.427963
+
+Finish 66 epoch(s). Epoch loss: 0.30784472450613976.  Time of epoch:0:00:00.071294
+
+Train Epoch: 67 [0/490 (0%)] lr: 0.001	Loss: 0.288662
+
+Finish 67 epoch(s). Epoch loss: 0.3095659799873829.  Time of epoch:0:00:00.045386
+
+Train Epoch: 68 [0/490 (0%)] lr: 0.001	Loss: 0.301836
+
+Finish 68 epoch(s). Epoch loss: 0.344018317759037.  Time of epoch:0:00:00.061954
+
+Train Epoch: 69 [0/490 (0%)] lr: 0.001	Loss: 0.380625
+
+Finish 69 epoch(s). Epoch loss: 0.40354878455400467.  Time of epoch:0:00:00.051494
+
+Train Epoch: 70 [0/490 (0%)] lr: 0.001	Loss: 0.333530
+
+Finish 70 epoch(s). Epoch loss: 0.31767839193344116.  Time of epoch:0:00:00.052833
+
+Train Epoch: 71 [0/490 (0%)] lr: 0.001	Loss: 0.272814
+
+Finish 71 epoch(s). Epoch loss: 0.2824510373175144.  Time of epoch:0:00:00.049651
+
+Train Epoch: 72 [0/490 (0%)] lr: 0.001	Loss: 0.365906
+
+Finish 72 epoch(s). Epoch loss: 0.26553607545793056.  Time of epoch:0:00:00.044376
+
+Train Epoch: 73 [0/490 (0%)] lr: 0.001	Loss: 0.290847
+
+Finish 73 epoch(s). Epoch loss: 0.27555054798722267.  Time of epoch:0:00:00.054845
+
+Train Epoch: 74 [0/490 (0%)] lr: 0.001	Loss: 0.274819
+
+Finish 74 epoch(s). Epoch loss: 0.2540784515440464.  Time of epoch:0:00:00.049105
+
+Train Epoch: 75 [0/490 (0%)] lr: 0.001	Loss: 0.314489
+
+Finish 75 epoch(s). Epoch loss: 0.3040642458945513.  Time of epoch:0:00:00.047286
+
+Train Epoch: 76 [0/490 (0%)] lr: 0.001	Loss: 0.239244
+
+Finish 76 epoch(s). Epoch loss: 0.25045886635780334.  Time of epoch:0:00:00.060095
+
+Train Epoch: 77 [0/490 (0%)] lr: 0.001	Loss: 0.174478
+
+Finish 77 epoch(s). Epoch loss: 0.3388195689767599.  Time of epoch:0:00:00.046531
+
+Train Epoch: 78 [0/490 (0%)] lr: 0.001	Loss: 0.355703
+
+Finish 78 epoch(s). Epoch loss: 0.30183218605816364.  Time of epoch:0:00:00.052174
+
+Train Epoch: 79 [0/490 (0%)] lr: 0.001	Loss: 0.367732
+
+Finish 79 epoch(s). Epoch loss: 0.30898766964673996.  Time of epoch:0:00:00.046602
+
+Train Epoch: 80 [0/490 (0%)] lr: 0.001	Loss: 0.300560
+
+Finish 80 epoch(s). Epoch loss: 0.2858938295394182.  Time of epoch:0:00:00.045897
+
+Train Epoch: 81 [0/490 (0%)] lr: 0.001	Loss: 0.357383
+
+Finish 81 epoch(s). Epoch loss: 0.24620043486356735.  Time of epoch:0:00:00.067463
+
+Train Epoch: 82 [0/490 (0%)] lr: 0.001	Loss: 0.276774
+
+Finish 82 epoch(s). Epoch loss: 0.23489986918866634.  Time of epoch:0:00:00.044650
+
+Train Epoch: 83 [0/490 (0%)] lr: 0.001	Loss: 0.252380
+
+Finish 83 epoch(s). Epoch loss: 0.24118670262396336.  Time of epoch:0:00:00.044721
+
+Train Epoch: 84 [0/490 (0%)] lr: 0.001	Loss: 0.180327
+
+Finish 84 epoch(s). Epoch loss: 0.24637250415980816.  Time of epoch:0:00:00.062493
+
+Train Epoch: 85 [0/490 (0%)] lr: 0.001	Loss: 0.253502
+
+Finish 85 epoch(s). Epoch loss: 0.25337151624262333.  Time of epoch:0:00:00.046356
+
+Train Epoch: 86 [0/490 (0%)] lr: 0.001	Loss: 0.248838
+
+Finish 86 epoch(s). Epoch loss: 0.3014066703617573.  Time of epoch:0:00:00.073919
+
+Train Epoch: 87 [0/490 (0%)] lr: 0.001	Loss: 0.286902
+
+Finish 87 epoch(s). Epoch loss: 0.24940339289605618.  Time of epoch:0:00:00.045110
+
+Train Epoch: 88 [0/490 (0%)] lr: 0.001	Loss: 0.313675
+
+Finish 88 epoch(s). Epoch loss: 0.2425353117287159.  Time of epoch:0:00:00.048335
+
+Train Epoch: 89 [0/490 (0%)] lr: 0.001	Loss: 0.159274
+
+Finish 89 epoch(s). Epoch loss: 0.25409194827079773.  Time of epoch:0:00:00.050868
+
+Train Epoch: 90 [0/490 (0%)] lr: 0.001	Loss: 0.474644
+
+Finish 90 epoch(s). Epoch loss: 0.28794045001268387.  Time of epoch:0:00:00.047181
+
+Train Epoch: 91 [0/490 (0%)] lr: 0.001	Loss: 0.269703
+
+Finish 91 epoch(s). Epoch loss: 0.23725789040327072.  Time of epoch:0:00:00.048394
+
+Train Epoch: 92 [0/490 (0%)] lr: 0.001	Loss: 0.212720
+
+Finish 92 epoch(s). Epoch loss: 0.27504338696599007.  Time of epoch:0:00:00.047077
+
+Train Epoch: 93 [0/490 (0%)] lr: 0.001	Loss: 0.369572
+
+Finish 93 epoch(s). Epoch loss: 0.2764985281974077.  Time of epoch:0:00:00.045908
+
+Train Epoch: 94 [0/490 (0%)] lr: 0.0001	Loss: 0.291134
+
+Finish 94 epoch(s). Epoch loss: 0.30764368548989296.  Time of epoch:0:00:00.054078
+
+Train Epoch: 95 [0/490 (0%)] lr: 0.0001	Loss: 0.175259
+
+Finish 95 epoch(s). Epoch loss: 0.19357231259346008.  Time of epoch:0:00:00.050202
+
+Train Epoch: 96 [0/490 (0%)] lr: 0.0001	Loss: 0.220913
+
+Finish 96 epoch(s). Epoch loss: 0.21651644818484783.  Time of epoch:0:00:00.053983
+
+Train Epoch: 97 [0/490 (0%)] lr: 0.0001	Loss: 0.216476
+
+Finish 97 epoch(s). Epoch loss: 0.20898746512830257.  Time of epoch:0:00:00.046026
+
+Train Epoch: 98 [0/490 (0%)] lr: 0.0001	Loss: 0.139874
+
+Finish 98 epoch(s). Epoch loss: 0.18822753056883812.  Time of epoch:0:00:00.045533
+
+Train Epoch: 99 [0/490 (0%)] lr: 0.0001	Loss: 0.161457
+
+Finish 99 epoch(s). Epoch loss: 0.20336832106113434.  Time of epoch:0:00:00.049611
+
+Train Epoch: 100 [0/490 (0%)] lr: 0.0001	Loss: 0.207952
+
+Finish 100 epoch(s). Epoch loss: 0.19944798201322556.  Time of epoch:0:00:00.050549
+
+Train Epoch: 101 [0/490 (0%)] lr: 0.0001	Loss: 0.201666
+
+Finish 101 epoch(s). Epoch loss: 0.1924812402576208.  Time of epoch:0:00:00.048766
+
+Train Epoch: 102 [0/490 (0%)] lr: 0.0001	Loss: 0.162266
+
+Finish 102 epoch(s). Epoch loss: 0.17906153574585915.  Time of epoch:0:00:00.048313
+
+Train Epoch: 103 [0/490 (0%)] lr: 0.0001	Loss: 0.200667
+
+Finish 103 epoch(s). Epoch loss: 0.20543441362679005.  Time of epoch:0:00:00.059963
+
+Train Epoch: 104 [0/490 (0%)] lr: 0.0001	Loss: 0.154190
+
+Finish 104 epoch(s). Epoch loss: 0.20292009226977825.  Time of epoch:0:00:00.048993
+
+Train Epoch: 105 [0/490 (0%)] lr: 0.0001	Loss: 0.218965
+
+Finish 105 epoch(s). Epoch loss: 0.18750730622559786.  Time of epoch:0:00:00.058043
+
+Train Epoch: 106 [0/490 (0%)] lr: 0.0001	Loss: 0.189661
+
+Finish 106 epoch(s). Epoch loss: 0.20523104071617126.  Time of epoch:0:00:00.077765
+
+Train Epoch: 107 [0/490 (0%)] lr: 0.0001	Loss: 0.184078
+
+Finish 107 epoch(s). Epoch loss: 0.1814036425203085.  Time of epoch:0:00:00.052178
+
+Train Epoch: 108 [0/490 (0%)] lr: 0.0001	Loss: 0.151416
+
+Finish 108 epoch(s). Epoch loss: 0.18726632092148066.  Time of epoch:0:00:00.059794
+
+Train Epoch: 109 [0/490 (0%)] lr: 0.0001	Loss: 0.173024
+
+Finish 109 epoch(s). Epoch loss: 0.19965178053826094.  Time of epoch:0:00:00.048033
+
+Train Epoch: 110 [0/490 (0%)] lr: 0.0001	Loss: 0.234686
+
+Finish 110 epoch(s). Epoch loss: 0.20406766049563885.  Time of epoch:0:00:00.076573
+
+Train Epoch: 111 [0/490 (0%)] lr: 0.0001	Loss: 0.178342
+
+Finish 111 epoch(s). Epoch loss: 0.18453183583915234.  Time of epoch:0:00:00.072625
+
+Train Epoch: 112 [0/490 (0%)] lr: 0.0001	Loss: 0.135292
+
+Finish 112 epoch(s). Epoch loss: 0.16894403472542763.  Time of epoch:0:00:00.059402
+
+Train Epoch: 113 [0/490 (0%)] lr: 0.0001	Loss: 0.166078
+
+Finish 113 epoch(s). Epoch loss: 0.17980372719466686.  Time of epoch:0:00:00.051245
+
+Train Epoch: 114 [0/490 (0%)] lr: 0.0001	Loss: 0.178673
+
+Finish 114 epoch(s). Epoch loss: 0.1788770705461502.  Time of epoch:0:00:00.045327
+
+Train Epoch: 115 [0/490 (0%)] lr: 0.0001	Loss: 0.135330
+
+Finish 115 epoch(s). Epoch loss: 0.20504743792116642.  Time of epoch:0:00:00.061473
+
+Train Epoch: 116 [0/490 (0%)] lr: 0.0001	Loss: 0.127036
+
+Finish 116 epoch(s). Epoch loss: 0.18415579665452242.  Time of epoch:0:00:00.045265
+
+Train Epoch: 117 [0/490 (0%)] lr: 0.0001	Loss: 0.210478
+
+Finish 117 epoch(s). Epoch loss: 0.18997290544211864.  Time of epoch:0:00:00.065702
+
+Train Epoch: 118 [0/490 (0%)] lr: 0.0001	Loss: 0.185002
+
+Finish 118 epoch(s). Epoch loss: 0.17627789452672005.  Time of epoch:0:00:00.045791
+
+Train Epoch: 119 [0/490 (0%)] lr: 0.0001	Loss: 0.202836
+
+Finish 119 epoch(s). Epoch loss: 0.18562239781022072.  Time of epoch:0:00:00.049275
+
+Train Epoch: 120 [0/490 (0%)] lr: 0.0001	Loss: 0.259965
+
+Finish 120 epoch(s). Epoch loss: 0.20053143240511417.  Time of epoch:0:00:00.045697
+
+Train Epoch: 121 [0/490 (0%)] lr: 0.0001	Loss: 0.185920
+
+Finish 121 epoch(s). Epoch loss: 0.16834394074976444.  Time of epoch:0:00:00.046824
+
+Train Epoch: 122 [0/490 (0%)] lr: 0.0001	Loss: 0.169781
+
+Finish 122 epoch(s). Epoch loss: 0.1742317359894514.  Time of epoch:0:00:00.096239
+
+Train Epoch: 123 [0/490 (0%)] lr: 0.0001	Loss: 0.159408
+
+Finish 123 epoch(s). Epoch loss: 0.18581441044807434.  Time of epoch:0:00:00.058278
+
+Train Epoch: 124 [0/490 (0%)] lr: 0.0001	Loss: 0.163810
+
+Finish 124 epoch(s). Epoch loss: 0.1874083150178194.  Time of epoch:0:00:00.077117
+
+Train Epoch: 125 [0/490 (0%)] lr: 0.0001	Loss: 0.226068
+
+Finish 125 epoch(s). Epoch loss: 0.18252929858863354.  Time of epoch:0:00:00.055104
+
+Train Epoch: 126 [0/490 (0%)] lr: 0.0001	Loss: 0.210144
+
+Finish 126 epoch(s). Epoch loss: 0.18429076112806797.  Time of epoch:0:00:00.067232
+
+Train Epoch: 127 [0/490 (0%)] lr: 0.0001	Loss: 0.248111
+
+Finish 127 epoch(s). Epoch loss: 0.1864321120083332.  Time of epoch:0:00:00.053116
+
+Train Epoch: 128 [0/490 (0%)] lr: 0.0001	Loss: 0.261730
+
+Finish 128 epoch(s). Epoch loss: 0.1927936188876629.  Time of epoch:0:00:00.076088
+
+Train Epoch: 129 [0/490 (0%)] lr: 0.0001	Loss: 0.174874
+
+Finish 129 epoch(s). Epoch loss: 0.1809787005186081.  Time of epoch:0:00:00.052934
+
+Train Epoch: 130 [0/490 (0%)] lr: 0.0001	Loss: 0.181596
+
+Finish 130 epoch(s). Epoch loss: 0.18139019422233105.  Time of epoch:0:00:00.057513
+
+Train Epoch: 131 [0/490 (0%)] lr: 0.0001	Loss: 0.172548
+
+Finish 131 epoch(s). Epoch loss: 0.1920547392219305.  Time of epoch:0:00:00.051492
+
+Train Epoch: 132 [0/490 (0%)] lr: 0.0001	Loss: 0.206196
+
+Finish 132 epoch(s). Epoch loss: 0.19495424814522266.  Time of epoch:0:00:00.070860
+
+Train Epoch: 133 [0/490 (0%)] lr: 1e-05	Loss: 0.178091
+
+Finish 133 epoch(s). Epoch loss: 0.1907389909029007.  Time of epoch:0:00:00.047501
+
+Train Epoch: 134 [0/490 (0%)] lr: 1e-05	Loss: 0.205653
+
+Finish 134 epoch(s). Epoch loss: 0.22785058803856373.  Time of epoch:0:00:00.046474
+
+Train Epoch: 135 [0/490 (0%)] lr: 1e-05	Loss: 0.195407
+
+Finish 135 epoch(s). Epoch loss: 0.19003847241401672.  Time of epoch:0:00:00.067428
+
+Train Epoch: 136 [0/490 (0%)] lr: 1e-05	Loss: 0.160297
+
+Finish 136 epoch(s). Epoch loss: 0.17744773440063.  Time of epoch:0:00:00.048509
+
+Train Epoch: 137 [0/490 (0%)] lr: 1e-05	Loss: 0.218940
+
+Finish 137 epoch(s). Epoch loss: 0.194738594815135.  Time of epoch:0:00:00.051231
+
+Train Epoch: 138 [0/490 (0%)] lr: 1e-05	Loss: 0.218044
+
+Finish 138 epoch(s). Epoch loss: 0.18106772936880589.  Time of epoch:0:00:00.050362
+
+Train Epoch: 139 [0/490 (0%)] lr: 1e-05	Loss: 0.184393
+
+Finish 139 epoch(s). Epoch loss: 0.1770679261535406.  Time of epoch:0:00:00.142147
+
+Train Epoch: 140 [0/490 (0%)] lr: 1e-05	Loss: 0.137543
+
+Finish 140 epoch(s). Epoch loss: 0.18951709754765034.  Time of epoch:0:00:00.062367
+
+Train Epoch: 141 [0/490 (0%)] lr: 1e-05	Loss: 0.255598
+
+Finish 141 epoch(s). Epoch loss: 0.1891342978924513.  Time of epoch:0:00:00.049737
+
+Train Epoch: 142 [0/490 (0%)] lr: 1e-05	Loss: 0.201346
+
+Finish 142 epoch(s). Epoch loss: 0.1696901172399521.  Time of epoch:0:00:00.050949
+
+Train Epoch: 143 [0/490 (0%)] lr: 1e-05	Loss: 0.148216
+
+Finish 143 epoch(s). Epoch loss: 0.20822563394904137.  Time of epoch:0:00:00.048407
+
+Train Epoch: 144 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.190087
+
+Finish 144 epoch(s). Epoch loss: 0.19618826545774937.  Time of epoch:0:00:00.052021
+
+Train Epoch: 145 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.195009
+
+Finish 145 epoch(s). Epoch loss: 0.18695376254618168.  Time of epoch:0:00:00.060156
+
+Train Epoch: 146 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.156747
+
+Finish 146 epoch(s). Epoch loss: 0.19056288339197636.  Time of epoch:0:00:00.065828
+
+Train Epoch: 147 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.162941
+
+Finish 147 epoch(s). Epoch loss: 0.1916401218622923.  Time of epoch:0:00:00.076814
+
+Train Epoch: 148 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.180219
+
+Finish 148 epoch(s). Epoch loss: 0.18401537835597992.  Time of epoch:0:00:00.051424
+
+Train Epoch: 149 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.161614
+
+Finish 149 epoch(s). Epoch loss: 0.1922061275690794.  Time of epoch:0:00:00.047184
+
+Train Epoch: 150 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.201692
+
+Finish 150 epoch(s). Epoch loss: 0.18384267389774323.  Time of epoch:0:00:00.053223
+
+Train Epoch: 151 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.267711
+
+Finish 151 epoch(s). Epoch loss: 0.16660957783460617.  Time of epoch:0:00:00.052188
+
+Train Epoch: 152 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.164644
+
+Finish 152 epoch(s). Epoch loss: 0.20742430351674557.  Time of epoch:0:00:00.058364
+
+Train Epoch: 153 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.160397
+
+Finish 153 epoch(s). Epoch loss: 0.17117729969322681.  Time of epoch:0:00:00.049695
+
+Train Epoch: 154 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.222696
+
+Finish 154 epoch(s). Epoch loss: 0.19712338037788868.  Time of epoch:0:00:00.046374
+
+Train Epoch: 155 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.229740
+
+Finish 155 epoch(s). Epoch loss: 0.17473074328154325.  Time of epoch:0:00:00.045482
+
+Train Epoch: 156 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.201448
+
+Finish 156 epoch(s). Epoch loss: 0.19491361640393734.  Time of epoch:0:00:00.055634
+
+Train Epoch: 157 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.253619
+
+Finish 157 epoch(s). Epoch loss: 0.1887031439691782.  Time of epoch:0:00:00.047045
+
+Train Epoch: 158 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.163321
+
+Finish 158 epoch(s). Epoch loss: 0.18437892943620682.  Time of epoch:0:00:00.056317
+
+Train Epoch: 159 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.190327
+
+Finish 159 epoch(s). Epoch loss: 0.19576596282422543.  Time of epoch:0:00:00.050892
+
+Train Epoch: 160 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.183404
+
+Finish 160 epoch(s). Epoch loss: 0.18229125812649727.  Time of epoch:0:00:00.056135
+
+Train Epoch: 161 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.231845
+
+Finish 161 epoch(s). Epoch loss: 0.18798412196338177.  Time of epoch:0:00:00.047491
+
+Train Epoch: 162 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.172256
+
+Finish 162 epoch(s). Epoch loss: 0.16073933150619268.  Time of epoch:0:00:00.049165
+
+Train Epoch: 163 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.150242
+
+Finish 163 epoch(s). Epoch loss: 0.21079427190124989.  Time of epoch:0:00:00.053111
+
+Train Epoch: 164 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.193281
+
+Finish 164 epoch(s). Epoch loss: 0.19392163679003716.  Time of epoch:0:00:00.048706
+
+Train Epoch: 165 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.227333
+
+Finish 165 epoch(s). Epoch loss: 0.1829199455678463.  Time of epoch:0:00:00.047175
+
+Train Epoch: 166 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.098737
+
+Finish 166 epoch(s). Epoch loss: 0.1815641364082694.  Time of epoch:0:00:00.046907
+
+Train Epoch: 167 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.171041
+
+Finish 167 epoch(s). Epoch loss: 0.18685379438102245.  Time of epoch:0:00:00.056075
+
+Train Epoch: 168 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.163385
+
+Finish 168 epoch(s). Epoch loss: 0.17987682670354843.  Time of epoch:0:00:00.047149
+
+Train Epoch: 169 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.211685
+
+Finish 169 epoch(s). Epoch loss: 0.19229819811880589.  Time of epoch:0:00:00.052131
+
+Train Epoch: 170 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.181551
+
+Finish 170 epoch(s). Epoch loss: 0.18697137851268053.  Time of epoch:0:00:00.044716
+
+Train Epoch: 171 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.248826
+
+Finish 171 epoch(s). Epoch loss: 0.1709173284471035.  Time of epoch:0:00:00.044448
+
+Train Epoch: 172 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.192997
+
+Finish 172 epoch(s). Epoch loss: 0.18681872077286243.  Time of epoch:0:00:00.052854
+
+Train Epoch: 173 [0/490 (0%)] lr: 1.0000000000000002e-06	Loss: 0.172878
+
+Finish 173 epoch(s). Epoch loss: 0.1870254948735237.  Time of epoch:0:00:00.047244
+
+Train Epoch: 174 [0/490 (0%)] lr: 1.0000000000000002e-07	Loss: 0.227547
+
+Finish 174 epoch(s). Epoch loss: 0.18245474062860012.  Time of epoch:0:00:00.052036
+
+Train Epoch: 175 [0/490 (0%)] lr: 1.0000000000000002e-07	Loss: 0.182060
+
+Finish 175 epoch(s). Epoch loss: 0.17021286487579346.  Time of epoch:0:00:00.051684
+
+Train Epoch: 176 [0/490 (0%)] lr: 1.0000000000000002e-07	Loss: 0.217512
+
+Finish 176 epoch(s). Epoch loss: 0.18089485727250576.  Time of epoch:0:00:00.057632
+
+Train Epoch: 177 [0/490 (0%)] lr: 1.0000000000000002e-07	Loss: 0.198696
+
+Finish 177 epoch(s). Epoch loss: 0.1881689466536045.  Time of epoch:0:00:00.052909
+
+Train Epoch: 178 [0/490 (0%)] lr: 1.0000000000000002e-07	Loss: 0.163535
+
+Finish 178 epoch(s). Epoch loss: 0.18636307306587696.  Time of epoch:0:00:00.047461
+
+Train Epoch: 179 [0/490 (0%)] lr: 1.0000000000000002e-07	Loss: 0.163214
+
+Finish 179 epoch(s). Epoch loss: 0.18551635928452015.  Time of epoch:0:00:00.062397
+
+Train Epoch: 180 [0/490 (0%)] lr: 1.0000000000000002e-07	Loss: 0.201403
+
+Finish 180 epoch(s). Epoch loss: 0.17351001780480146.  Time of epoch:0:00:00.049293
+
+Train Epoch: 181 [0/490 (0%)] lr: 1.0000000000000002e-07	Loss: 0.252162
+
+Finish 181 epoch(s). Epoch loss: 0.18370135501027107.  Time of epoch:0:00:00.051821
+
+Train Epoch: 182 [0/490 (0%)] lr: 1.0000000000000002e-07	Loss: 0.127516
+
+Finish 182 epoch(s). Epoch loss: 0.17026683781296015.  Time of epoch:0:00:00.047262
+
+Train Epoch: 183 [0/490 (0%)] lr: 1.0000000000000002e-07	Loss: 0.145093
+
+Finish 183 epoch(s). Epoch loss: 0.19955809600651264.  Time of epoch:0:00:00.050771
+
+Train Epoch: 184 [0/490 (0%)] lr: 1.0000000000000002e-07	Loss: 0.133390
+
+Finish 184 epoch(s). Epoch loss: 0.17594389989972115.  Time of epoch:0:00:00.056523
+
+Train Epoch: 185 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.241761
+
+Finish 185 epoch(s). Epoch loss: 0.18656345829367638.  Time of epoch:0:00:00.047394
+
+Train Epoch: 186 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.182122
+
+Finish 186 epoch(s). Epoch loss: 0.17351169139146805.  Time of epoch:0:00:00.047527
+
+Train Epoch: 187 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.187564
+
+Finish 187 epoch(s). Epoch loss: 0.2024139128625393.  Time of epoch:0:00:00.046025
+
+Train Epoch: 188 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.198071
+
+Finish 188 epoch(s). Epoch loss: 0.2112796436995268.  Time of epoch:0:00:00.055980
+
+Train Epoch: 189 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.173311
+
+Finish 189 epoch(s). Epoch loss: 0.17792503256350756.  Time of epoch:0:00:00.045109
+
+Train Epoch: 190 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.229277
+
+Finish 190 epoch(s). Epoch loss: 0.2078768741339445.  Time of epoch:0:00:00.045133
+
+Train Epoch: 191 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.163157
+
+Finish 191 epoch(s). Epoch loss: 0.19077236857265234.  Time of epoch:0:00:00.052280
+
+Train Epoch: 192 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.232068
+
+Finish 192 epoch(s). Epoch loss: 0.18958032317459583.  Time of epoch:0:00:00.047166
+
+Train Epoch: 193 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.155830
+
+Finish 193 epoch(s). Epoch loss: 0.17760745901614428.  Time of epoch:0:00:00.046152
+
+Train Epoch: 194 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.188106
+
+Finish 194 epoch(s). Epoch loss: 0.1863919161260128.  Time of epoch:0:00:00.055171
+
+Train Epoch: 195 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.247377
+
+Finish 195 epoch(s). Epoch loss: 0.21055199392139912.  Time of epoch:0:00:00.046162
+
+Train Epoch: 196 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.173899
+
+Finish 196 epoch(s). Epoch loss: 0.18198022432625294.  Time of epoch:0:00:00.055481
+
+Train Epoch: 197 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.167246
+
+Finish 197 epoch(s). Epoch loss: 0.17577172443270683.  Time of epoch:0:00:00.050501
+
+Train Epoch: 198 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.162796
+
+Finish 198 epoch(s). Epoch loss: 0.16466161236166954.  Time of epoch:0:00:00.044968
+
+Train Epoch: 199 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.212547
+
+Finish 199 epoch(s). Epoch loss: 0.1752920113503933.  Time of epoch:0:00:00.055993
+
+Train Epoch: 200 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.184466
+
+Finish 200 epoch(s). Epoch loss: 0.17369091138243675.  Time of epoch:0:00:00.045680
+
+Train Epoch: 201 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.161325
+
+Finish 201 epoch(s). Epoch loss: 0.17194566689431667.  Time of epoch:0:00:00.058692
+
+Train Epoch: 202 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.181153
+
+Finish 202 epoch(s). Epoch loss: 0.19095989130437374.  Time of epoch:0:00:00.045190
+
+Train Epoch: 203 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.214367
+
+Finish 203 epoch(s). Epoch loss: 0.18427304364740849.  Time of epoch:0:00:00.044674
+
+Train Epoch: 204 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.162638
+
+Finish 204 epoch(s). Epoch loss: 0.1688815038651228.  Time of epoch:0:00:00.053813
+
+Train Epoch: 205 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.155605
+
+Finish 205 epoch(s). Epoch loss: 0.19670992344617844.  Time of epoch:0:00:00.044650
+
+Train Epoch: 206 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.188349
+
+Finish 206 epoch(s). Epoch loss: 0.17978255823254585.  Time of epoch:0:00:00.044578
+
+Train Epoch: 207 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.121707
+
+Finish 207 epoch(s). Epoch loss: 0.18347795866429806.  Time of epoch:0:00:00.051445
+
+Train Epoch: 208 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.177586
+
+Finish 208 epoch(s). Epoch loss: 0.18582544662058353.  Time of epoch:0:00:00.044133
+
+Train Epoch: 209 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.199890
+
+Finish 209 epoch(s). Epoch loss: 0.19840166345238686.  Time of epoch:0:00:00.044654
+
+Train Epoch: 210 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.165802
+
+Finish 210 epoch(s). Epoch loss: 0.17020794562995434.  Time of epoch:0:00:00.054949
+
+Train Epoch: 211 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.186581
+
+Finish 211 epoch(s). Epoch loss: 0.16079164016991854.  Time of epoch:0:00:00.044373
+
+Train Epoch: 212 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.206458
+
+Finish 212 epoch(s). Epoch loss: 0.18366267811506987.  Time of epoch:0:00:00.044995
+
+Train Epoch: 213 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.181089
+
+Finish 213 epoch(s). Epoch loss: 0.19000685214996338.  Time of epoch:0:00:00.050444
+
+Train Epoch: 214 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.151136
+
+Finish 214 epoch(s). Epoch loss: 0.1801781114190817.  Time of epoch:0:00:00.044568
+
+Train Epoch: 215 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.152812
+
+Finish 215 epoch(s). Epoch loss: 0.19542572926729918.  Time of epoch:0:00:00.056013
+
+Train Epoch: 216 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.189592
+
+Finish 216 epoch(s). Epoch loss: 0.17857815977185965.  Time of epoch:0:00:00.069675
+
+Train Epoch: 217 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.142305
+
+Finish 217 epoch(s). Epoch loss: 0.17174069304019213.  Time of epoch:0:00:00.055921
+
+Train Epoch: 218 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.177174
+
+Finish 218 epoch(s). Epoch loss: 0.17697392404079437.  Time of epoch:0:00:00.046179
+
+Train Epoch: 219 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.145213
+
+Finish 219 epoch(s). Epoch loss: 0.173924058675766.  Time of epoch:0:00:00.079778
+
+Train Epoch: 220 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.194032
+
+Finish 220 epoch(s). Epoch loss: 0.18213255144655704.  Time of epoch:0:00:00.051363
+
+Train Epoch: 221 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.144217
+
+Finish 221 epoch(s). Epoch loss: 0.17582747526466846.  Time of epoch:0:00:00.047395
+
+Train Epoch: 222 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.192780
+
+Finish 222 epoch(s). Epoch loss: 0.19171447306871414.  Time of epoch:0:00:00.054625
+
+Train Epoch: 223 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.171560
+
+Finish 223 epoch(s). Epoch loss: 0.19102058187127113.  Time of epoch:0:00:00.072304
+
+Train Epoch: 224 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.215262
+
+Finish 224 epoch(s). Epoch loss: 0.18815132416784763.  Time of epoch:0:00:00.045897
+
+Train Epoch: 225 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.119426
+
+Finish 225 epoch(s). Epoch loss: 0.1874984223395586.  Time of epoch:0:00:00.045035
+
+Train Epoch: 226 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.242489
+
+Finish 226 epoch(s). Epoch loss: 0.1667564967647195.  Time of epoch:0:00:00.066930
+
+Train Epoch: 227 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.176282
+
+Finish 227 epoch(s). Epoch loss: 0.17643482983112335.  Time of epoch:0:00:00.046368
+
+Train Epoch: 228 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.192614
+
+Finish 228 epoch(s). Epoch loss: 0.16632313281297684.  Time of epoch:0:00:00.045601
+
+Train Epoch: 229 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.172075
+
+Finish 229 epoch(s). Epoch loss: 0.19425772689282894.  Time of epoch:0:00:00.052209
+
+Train Epoch: 230 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.199560
+
+Finish 230 epoch(s). Epoch loss: 0.18451448157429695.  Time of epoch:0:00:00.046114
+
+Train Epoch: 231 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.144395
+
+Finish 231 epoch(s). Epoch loss: 0.16766456328332424.  Time of epoch:0:00:00.073360
+
+Train Epoch: 232 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.290187
+
+Finish 232 epoch(s). Epoch loss: 0.19086570292711258.  Time of epoch:0:00:00.044364
+
+Train Epoch: 233 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.143010
+
+Finish 233 epoch(s). Epoch loss: 0.1871992014348507.  Time of epoch:0:00:00.055910
+
+Train Epoch: 234 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.184600
+
+Finish 234 epoch(s). Epoch loss: 0.17783629894256592.  Time of epoch:0:00:00.144471
+
+Train Epoch: 235 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.242764
+
+Finish 235 epoch(s). Epoch loss: 0.18240679055452347.  Time of epoch:0:00:00.048775
+
+Train Epoch: 236 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.153353
+
+Finish 236 epoch(s). Epoch loss: 0.17913353815674782.  Time of epoch:0:00:00.050605
+
+Train Epoch: 237 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.175184
+
+Finish 237 epoch(s). Epoch loss: 0.17416693270206451.  Time of epoch:0:00:00.059576
+
+Train Epoch: 238 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.380498
+
+Finish 238 epoch(s). Epoch loss: 0.18281085137277842.  Time of epoch:0:00:00.052444
+
+Train Epoch: 239 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.144977
+
+Finish 239 epoch(s). Epoch loss: 0.1835866943001747.  Time of epoch:0:00:00.051659
+
+Train Epoch: 240 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.175025
+
+Finish 240 epoch(s). Epoch loss: 0.17712891474366188.  Time of epoch:0:00:00.049133
+
+Train Epoch: 241 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.258323
+
+Finish 241 epoch(s). Epoch loss: 0.2013838328421116.  Time of epoch:0:00:00.045694
+
+Train Epoch: 242 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.130292
+
+Finish 242 epoch(s). Epoch loss: 0.18299353495240211.  Time of epoch:0:00:00.055964
+
+Train Epoch: 243 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.205422
+
+Finish 243 epoch(s). Epoch loss: 0.1706544877961278.  Time of epoch:0:00:00.044387
+
+Train Epoch: 244 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.158077
+
+Finish 244 epoch(s). Epoch loss: 0.1881302334368229.  Time of epoch:0:00:00.062573
+
+Train Epoch: 245 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.189224
+
+Finish 245 epoch(s). Epoch loss: 0.19041267596185207.  Time of epoch:0:00:00.048197
+
+Train Epoch: 246 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.163526
+
+Finish 246 epoch(s). Epoch loss: 0.16780817788094282.  Time of epoch:0:00:00.044251
+
+Train Epoch: 247 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.180899
+
+Finish 247 epoch(s). Epoch loss: 0.19399572350084782.  Time of epoch:0:00:00.053655
+
+Train Epoch: 248 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.268824
+
+Finish 248 epoch(s). Epoch loss: 0.2025207281112671.  Time of epoch:0:00:00.044395
+
+Train Epoch: 249 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.180752
+
+Finish 249 epoch(s). Epoch loss: 0.18840984627604485.  Time of epoch:0:00:00.061489
+
+Train Epoch: 250 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.199679
+
+Finish 250 epoch(s). Epoch loss: 0.18196064699441195.  Time of epoch:0:00:00.055054
+
+Train Epoch: 251 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.195018
+
+Finish 251 epoch(s). Epoch loss: 0.19365585409104824.  Time of epoch:0:00:00.048624
+
+Train Epoch: 252 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.190245
+
+Finish 252 epoch(s). Epoch loss: 0.18865963257849216.  Time of epoch:0:00:00.049620
+
+Train Epoch: 253 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.210263
+
+Finish 253 epoch(s). Epoch loss: 0.17573489900678396.  Time of epoch:0:00:00.044905
+
+Train Epoch: 254 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.116296
+
+Finish 254 epoch(s). Epoch loss: 0.20186283346265554.  Time of epoch:0:00:00.046124
+
+Train Epoch: 255 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.264542
+
+Finish 255 epoch(s). Epoch loss: 0.17174138501286507.  Time of epoch:0:00:00.056320
+
+Train Epoch: 256 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.205927
+
+Finish 256 epoch(s). Epoch loss: 0.1971044484525919.  Time of epoch:0:00:00.047010
+
+Train Epoch: 257 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.262820
+
+Finish 257 epoch(s). Epoch loss: 0.1886648517102003.  Time of epoch:0:00:00.048670
+
+Train Epoch: 258 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.145967
+
+Finish 258 epoch(s). Epoch loss: 0.1908110547810793.  Time of epoch:0:00:00.046697
+
+Train Epoch: 259 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.187954
+
+Finish 259 epoch(s). Epoch loss: 0.1964816078543663.  Time of epoch:0:00:00.062114
+
+Train Epoch: 260 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.159259
+
+Finish 260 epoch(s). Epoch loss: 0.18415371514856815.  Time of epoch:0:00:00.057085
+
+Train Epoch: 261 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.214488
+
+Finish 261 epoch(s). Epoch loss: 0.1857447847723961.  Time of epoch:0:00:00.050478
+
+Train Epoch: 262 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.228270
+
+Finish 262 epoch(s). Epoch loss: 0.18353767693042755.  Time of epoch:0:00:00.050145
+
+Train Epoch: 263 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.187623
+
+Finish 263 epoch(s). Epoch loss: 0.16931976843625307.  Time of epoch:0:00:00.049078
+
+Train Epoch: 264 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.229632
+
+Finish 264 epoch(s). Epoch loss: 0.18178538605570793.  Time of epoch:0:00:00.061100
+
+Train Epoch: 265 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.191040
+
+Finish 265 epoch(s). Epoch loss: 0.1839768197387457.  Time of epoch:0:00:00.047831
+
+Train Epoch: 266 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.204114
+
+Finish 266 epoch(s). Epoch loss: 0.18740027956664562.  Time of epoch:0:00:00.060011
+
+Train Epoch: 267 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.272234
+
+Finish 267 epoch(s). Epoch loss: 0.18941808305680752.  Time of epoch:0:00:00.044922
+
+Train Epoch: 268 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.170496
+
+Finish 268 epoch(s). Epoch loss: 0.17529947124421597.  Time of epoch:0:00:00.051039
+
+Train Epoch: 269 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.190519
+
+Finish 269 epoch(s). Epoch loss: 0.19847825542092323.  Time of epoch:0:00:00.045243
+
+Train Epoch: 270 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.242152
+
+Finish 270 epoch(s). Epoch loss: 0.1743574719876051.  Time of epoch:0:00:00.046908
+
+Train Epoch: 271 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.248577
+
+Finish 271 epoch(s). Epoch loss: 0.1964660082012415.  Time of epoch:0:00:00.059535
+
+Train Epoch: 272 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.174006
+
+Finish 272 epoch(s). Epoch loss: 0.1850449237972498.  Time of epoch:0:00:00.049243
+
+Train Epoch: 273 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.161072
+
+Finish 273 epoch(s). Epoch loss: 0.17819550447165966.  Time of epoch:0:00:00.045541
+
+Train Epoch: 274 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.164231
+
+Finish 274 epoch(s). Epoch loss: 0.18328467290848494.  Time of epoch:0:00:00.059899
+
+Train Epoch: 275 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.174485
+
+Finish 275 epoch(s). Epoch loss: 0.19415408745408058.  Time of epoch:0:00:00.044399
+
+Train Epoch: 276 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.187466
+
+Finish 276 epoch(s). Epoch loss: 0.16956633515655994.  Time of epoch:0:00:00.053183
+
+Train Epoch: 277 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.139735
+
+Finish 277 epoch(s). Epoch loss: 0.15840153861790895.  Time of epoch:0:00:00.051881
+
+Train Epoch: 278 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.139595
+
+Finish 278 epoch(s). Epoch loss: 0.201661579310894.  Time of epoch:0:00:00.044094
+
+Train Epoch: 279 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.222743
+
+Finish 279 epoch(s). Epoch loss: 0.1879171710461378.  Time of epoch:0:00:00.059842
+
+Train Epoch: 280 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.254503
+
+Finish 280 epoch(s). Epoch loss: 0.19457301124930382.  Time of epoch:0:00:00.043857
+
+Train Epoch: 281 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.186541
+
+Finish 281 epoch(s). Epoch loss: 0.18557860516011715.  Time of epoch:0:00:00.043547
+
+Train Epoch: 282 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.108549
+
+Finish 282 epoch(s). Epoch loss: 0.18374724686145782.  Time of epoch:0:00:00.060420
+
+Train Epoch: 283 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.278459
+
+Finish 283 epoch(s). Epoch loss: 0.20104997232556343.  Time of epoch:0:00:00.044106
+
+Train Epoch: 284 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.186534
+
+Finish 284 epoch(s). Epoch loss: 0.18775413185358047.  Time of epoch:0:00:00.043898
+
+Train Epoch: 285 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.177158
+
+Finish 285 epoch(s). Epoch loss: 0.18396317586302757.  Time of epoch:0:00:00.054394
+
+Train Epoch: 286 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.217311
+
+Finish 286 epoch(s). Epoch loss: 0.18377700727432966.  Time of epoch:0:00:00.068663
+
+Train Epoch: 287 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.256895
+
+Finish 287 epoch(s). Epoch loss: 0.21424369886517525.  Time of epoch:0:00:00.065242
+
+Train Epoch: 288 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.164976
+
+Finish 288 epoch(s). Epoch loss: 0.1751903062686324.  Time of epoch:0:00:00.044766
+
+Train Epoch: 289 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.166194
+
+Finish 289 epoch(s). Epoch loss: 0.18031832110136747.  Time of epoch:0:00:00.044622
+
+Train Epoch: 290 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.163899
+
+Finish 290 epoch(s). Epoch loss: 0.19842215813696384.  Time of epoch:0:00:00.053003
+
+Train Epoch: 291 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.233559
+
+Finish 291 epoch(s). Epoch loss: 0.20272620022296906.  Time of epoch:0:00:00.058236
+
+Train Epoch: 292 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.144622
+
+Finish 292 epoch(s). Epoch loss: 0.1694482136517763.  Time of epoch:0:00:00.044740
+
+Train Epoch: 293 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.185302
+
+Finish 293 epoch(s). Epoch loss: 0.1751740649342537.  Time of epoch:0:00:00.054283
+
+Train Epoch: 294 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.230880
+
+Finish 294 epoch(s). Epoch loss: 0.17868489399552345.  Time of epoch:0:00:00.065408
+
+Train Epoch: 295 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.187241
+
+Finish 295 epoch(s). Epoch loss: 0.1915679182857275.  Time of epoch:0:00:00.047428
+
+Train Epoch: 296 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.189755
+
+Finish 296 epoch(s). Epoch loss: 0.18010909110307693.  Time of epoch:0:00:00.048515
+
+Train Epoch: 297 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.190493
+
+Finish 297 epoch(s). Epoch loss: 0.17755437269806862.  Time of epoch:0:00:00.051721
+
+Train Epoch: 298 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.208084
+
+Finish 298 epoch(s). Epoch loss: 0.17790873534977436.  Time of epoch:0:00:00.048721
+
+Train Epoch: 299 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.173272
+
+Finish 299 epoch(s). Epoch loss: 0.187085073441267.  Time of epoch:0:00:00.056207
+
+Train Epoch: 300 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.166113
+
+Finish 300 epoch(s). Epoch loss: 0.19480101764202118.  Time of epoch:0:00:00.051717
+
+Train Epoch: 301 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.197880
+
+Finish 301 epoch(s). Epoch loss: 0.1980259083211422.  Time of epoch:0:00:00.045636
+
+Train Epoch: 302 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.203795
+
+Finish 302 epoch(s). Epoch loss: 0.1994776912033558.  Time of epoch:0:00:00.049349
+
+Train Epoch: 303 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.213199
+
+Finish 303 epoch(s). Epoch loss: 0.1914389654994011.  Time of epoch:0:00:00.044968
+
+Train Epoch: 304 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.152925
+
+Finish 304 epoch(s). Epoch loss: 0.19515242241322994.  Time of epoch:0:00:00.049220
+
+Train Epoch: 305 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.159035
+
+Finish 305 epoch(s). Epoch loss: 0.17522337660193443.  Time of epoch:0:00:00.046822
+
+Train Epoch: 306 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.161016
+
+Finish 306 epoch(s). Epoch loss: 0.19420048967003822.  Time of epoch:0:00:00.046130
+
+Train Epoch: 307 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.227238
+
+Finish 307 epoch(s). Epoch loss: 0.1615886241197586.  Time of epoch:0:00:00.051168
+
+Train Epoch: 308 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.270316
+
+Finish 308 epoch(s). Epoch loss: 0.17342806421220303.  Time of epoch:0:00:00.049089
+
+Train Epoch: 309 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.210655
+
+Finish 309 epoch(s). Epoch loss: 0.16579133830964565.  Time of epoch:0:00:00.046324
+
+Train Epoch: 310 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.146509
+
+Finish 310 epoch(s). Epoch loss: 0.18479411490261555.  Time of epoch:0:00:00.060418
+
+Train Epoch: 311 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.203257
+
+Finish 311 epoch(s). Epoch loss: 0.18791464809328318.  Time of epoch:0:00:00.049813
+
+Train Epoch: 312 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.219501
+
+Finish 312 epoch(s). Epoch loss: 0.1840604767203331.  Time of epoch:0:00:00.049203
+
+Train Epoch: 313 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.189981
+
+Finish 313 epoch(s). Epoch loss: 0.21814758330583572.  Time of epoch:0:00:00.046681
+
+Train Epoch: 314 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.209577
+
+Finish 314 epoch(s). Epoch loss: 0.19124040566384792.  Time of epoch:0:00:00.069695
+
+Train Epoch: 315 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.212818
+
+Finish 315 epoch(s). Epoch loss: 0.17407024838030338.  Time of epoch:0:00:00.050741
+
+Train Epoch: 316 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.183666
+
+Finish 316 epoch(s). Epoch loss: 0.1883109863847494.  Time of epoch:0:00:00.061787
+
+Train Epoch: 317 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.180263
+
+Finish 317 epoch(s). Epoch loss: 0.17265400290489197.  Time of epoch:0:00:00.049936
+
+Train Epoch: 318 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.148434
+
+Finish 318 epoch(s). Epoch loss: 0.18597274646162987.  Time of epoch:0:00:00.045327
+
+Train Epoch: 319 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.119410
+
+Finish 319 epoch(s). Epoch loss: 0.18661522679030895.  Time of epoch:0:00:00.052463
+
+Train Epoch: 320 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.270591
+
+Finish 320 epoch(s). Epoch loss: 0.20894331112504005.  Time of epoch:0:00:00.044290
+
+Train Epoch: 321 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.238389
+
+Finish 321 epoch(s). Epoch loss: 0.18959021475166082.  Time of epoch:0:00:00.069036
+
+Train Epoch: 322 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.213394
+
+Finish 322 epoch(s). Epoch loss: 0.1936912890523672.  Time of epoch:0:00:00.045088
+
+Train Epoch: 323 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.218479
+
+Finish 323 epoch(s). Epoch loss: 0.19955824129283428.  Time of epoch:0:00:00.044397
+
+Train Epoch: 324 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.173631
+
+Finish 324 epoch(s). Epoch loss: 0.16626563016325235.  Time of epoch:0:00:00.051641
+
+Train Epoch: 325 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.192868
+
+Finish 325 epoch(s). Epoch loss: 0.18377656117081642.  Time of epoch:0:00:00.047851
+
+Train Epoch: 326 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.198550
+
+Finish 326 epoch(s). Epoch loss: 0.18835303001105785.  Time of epoch:0:00:00.046893
+
+Train Epoch: 327 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.196540
+
+Finish 327 epoch(s). Epoch loss: 0.20973506569862366.  Time of epoch:0:00:00.106558
+
+Train Epoch: 328 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.122907
+
+Finish 328 epoch(s). Epoch loss: 0.16816458199173212.  Time of epoch:0:00:00.064287
+
+Train Epoch: 329 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.160192
+
+Finish 329 epoch(s). Epoch loss: 0.16429468616843224.  Time of epoch:0:00:00.056293
+
+Train Epoch: 330 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.196784
+
+Finish 330 epoch(s). Epoch loss: 0.18619110621511936.  Time of epoch:0:00:00.044449
+
+Train Epoch: 331 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.123249
+
+Finish 331 epoch(s). Epoch loss: 0.17005861271172762.  Time of epoch:0:00:00.059855
+
+Train Epoch: 332 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.185039
+
+Finish 332 epoch(s). Epoch loss: 0.18323301151394844.  Time of epoch:0:00:00.044770
+
+Train Epoch: 333 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.141147
+
+Finish 333 epoch(s). Epoch loss: 0.14910586550831795.  Time of epoch:0:00:00.049128
+
+Train Epoch: 334 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.146865
+
+Finish 334 epoch(s). Epoch loss: 0.1606388483196497.  Time of epoch:0:00:00.046772
+
+Train Epoch: 335 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.173101
+
+Finish 335 epoch(s). Epoch loss: 0.1756851878017187.  Time of epoch:0:00:00.046828
+
+Train Epoch: 336 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.173699
+
+Finish 336 epoch(s). Epoch loss: 0.19088751822710037.  Time of epoch:0:00:00.044698
+
+Train Epoch: 337 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.124368
+
+Finish 337 epoch(s). Epoch loss: 0.1696069873869419.  Time of epoch:0:00:00.045266
+
+Train Epoch: 338 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.170380
+
+Finish 338 epoch(s). Epoch loss: 0.1908554546535015.  Time of epoch:0:00:00.052452
+
+Train Epoch: 339 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.192425
+
+Finish 339 epoch(s). Epoch loss: 0.17528863810002804.  Time of epoch:0:00:00.046082
+
+Train Epoch: 340 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.206274
+
+Finish 340 epoch(s). Epoch loss: 0.1794873457401991.  Time of epoch:0:00:00.044990
+
+Train Epoch: 341 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.240827
+
+Finish 341 epoch(s). Epoch loss: 0.19028576090931892.  Time of epoch:0:00:00.056367
+
+Train Epoch: 342 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.223587
+
+Finish 342 epoch(s). Epoch loss: 0.19895318523049355.  Time of epoch:0:00:00.044698
+
+Train Epoch: 343 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.195972
+
+Finish 343 epoch(s). Epoch loss: 0.17710777185857296.  Time of epoch:0:00:00.044427
+
+Train Epoch: 344 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.214767
+
+Finish 344 epoch(s). Epoch loss: 0.17503119260072708.  Time of epoch:0:00:00.052136
+
+Train Epoch: 345 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.197708
+
+Finish 345 epoch(s). Epoch loss: 0.1788146309554577.  Time of epoch:0:00:00.044646
+
+Train Epoch: 346 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.173160
+
+Finish 346 epoch(s). Epoch loss: 0.17768876440823078.  Time of epoch:0:00:00.047625
+
+Train Epoch: 347 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.144705
+
+Finish 347 epoch(s). Epoch loss: 0.18136479891836643.  Time of epoch:0:00:00.052700
+
+Train Epoch: 348 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.152407
+
+Finish 348 epoch(s). Epoch loss: 0.17267922684550285.  Time of epoch:0:00:00.048240
+
+Train Epoch: 349 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.163570
+
+Finish 349 epoch(s). Epoch loss: 0.19906356558203697.  Time of epoch:0:00:00.044155
+
+Train Epoch: 350 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.136928
+
+Finish 350 epoch(s). Epoch loss: 0.18021763674914837.  Time of epoch:0:00:00.048615
+
+Train Epoch: 351 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.136008
+
+Finish 351 epoch(s). Epoch loss: 0.17735122609883547.  Time of epoch:0:00:00.044312
+
+Train Epoch: 352 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.118371
+
+Finish 352 epoch(s). Epoch loss: 0.18500583246350288.  Time of epoch:0:00:00.044378
+
+Train Epoch: 353 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.169353
+
+Finish 353 epoch(s). Epoch loss: 0.16962356679141521.  Time of epoch:0:00:00.061920
+
+Train Epoch: 354 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.188011
+
+Finish 354 epoch(s). Epoch loss: 0.19562828540802002.  Time of epoch:0:00:00.047567
+
+Train Epoch: 355 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.224687
+
+Finish 355 epoch(s). Epoch loss: 0.18304920569062233.  Time of epoch:0:00:00.052752
+
+Train Epoch: 356 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.181025
+
+Finish 356 epoch(s). Epoch loss: 0.17769212368875742.  Time of epoch:0:00:00.052678
+
+Train Epoch: 357 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.174082
+
+Finish 357 epoch(s). Epoch loss: 0.1926476713269949.  Time of epoch:0:00:00.045565
+
+Train Epoch: 358 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.142138
+
+Finish 358 epoch(s). Epoch loss: 0.19698710646480322.  Time of epoch:0:00:00.055324
+
+Train Epoch: 359 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.204294
+
+Finish 359 epoch(s). Epoch loss: 0.16788768023252487.  Time of epoch:0:00:00.045741
+
+Train Epoch: 360 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.146944
+
+Finish 360 epoch(s). Epoch loss: 0.18911373615264893.  Time of epoch:0:00:00.046184
+
+Train Epoch: 361 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.247538
+
+Finish 361 epoch(s). Epoch loss: 0.1865954166278243.  Time of epoch:0:00:00.059827
+
+Train Epoch: 362 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.187978
+
+Finish 362 epoch(s). Epoch loss: 0.17247178219258785.  Time of epoch:0:00:00.044863
+
+Train Epoch: 363 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.124385
+
+Finish 363 epoch(s). Epoch loss: 0.18702774867415428.  Time of epoch:0:00:00.047875
+
+Train Epoch: 364 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.170431
+
+Finish 364 epoch(s). Epoch loss: 0.18024367280304432.  Time of epoch:0:00:00.055752
+
+Train Epoch: 365 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.154684
+
+Finish 365 epoch(s). Epoch loss: 0.1644637305289507.  Time of epoch:0:00:00.044220
+
+Train Epoch: 366 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.158795
+
+Finish 366 epoch(s). Epoch loss: 0.17495772615075111.  Time of epoch:0:00:00.054739
+
+Train Epoch: 367 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.172040
+
+Finish 367 epoch(s). Epoch loss: 0.2045512031763792.  Time of epoch:0:00:00.054694
+
+Train Epoch: 368 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.157695
+
+Finish 368 epoch(s). Epoch loss: 0.1991134835407138.  Time of epoch:0:00:00.047176
+
+Train Epoch: 369 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.186438
+
+Finish 369 epoch(s). Epoch loss: 0.17713393084704876.  Time of epoch:0:00:00.056583
+
+Train Epoch: 370 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.162007
+
+Finish 370 epoch(s). Epoch loss: 0.18799744732677937.  Time of epoch:0:00:00.044421
+
+Train Epoch: 371 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.122359
+
+Finish 371 epoch(s). Epoch loss: 0.18876082357019186.  Time of epoch:0:00:00.045037
+
+Train Epoch: 372 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.214765
+
+Finish 372 epoch(s). Epoch loss: 0.18569829501211643.  Time of epoch:0:00:00.051179
+
+Train Epoch: 373 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.219303
+
+Finish 373 epoch(s). Epoch loss: 0.18966307863593102.  Time of epoch:0:00:00.051632
+
+Train Epoch: 374 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.126956
+
+Finish 374 epoch(s). Epoch loss: 0.1830323189496994.  Time of epoch:0:00:00.047232
+
+Train Epoch: 375 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.196678
+
+Finish 375 epoch(s). Epoch loss: 0.1693765316158533.  Time of epoch:0:00:00.059357
+
+Train Epoch: 376 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.191345
+
+Finish 376 epoch(s). Epoch loss: 0.18268059566617012.  Time of epoch:0:00:00.057143
+
+Train Epoch: 377 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.206877
+
+Finish 377 epoch(s). Epoch loss: 0.21276511996984482.  Time of epoch:0:00:00.057682
+
+Train Epoch: 378 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.194150
+
+Finish 378 epoch(s). Epoch loss: 0.1751666534692049.  Time of epoch:0:00:00.066559
+
+Train Epoch: 379 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.231684
+
+Finish 379 epoch(s). Epoch loss: 0.2045650277286768.  Time of epoch:0:00:00.046352
+
+Train Epoch: 380 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.098002
+
+Finish 380 epoch(s). Epoch loss: 0.17662928998470306.  Time of epoch:0:00:00.044058
+
+Train Epoch: 381 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.219021
+
+Finish 381 epoch(s). Epoch loss: 0.1940526682883501.  Time of epoch:0:00:00.049739
+
+Train Epoch: 382 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.207096
+
+Finish 382 epoch(s). Epoch loss: 0.20230665244162083.  Time of epoch:0:00:00.044223
+
+Train Epoch: 383 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.154937
+
+Finish 383 epoch(s). Epoch loss: 0.18118083849549294.  Time of epoch:0:00:00.044346
+
+Train Epoch: 384 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.165339
+
+Finish 384 epoch(s). Epoch loss: 0.19857976771891117.  Time of epoch:0:00:00.082491
+
+Train Epoch: 385 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.173283
+
+Finish 385 epoch(s). Epoch loss: 0.17990107089281082.  Time of epoch:0:00:00.044502
+
+Train Epoch: 386 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.189520
+
+Finish 386 epoch(s). Epoch loss: 0.17453280091285706.  Time of epoch:0:00:00.045432
+
+Train Epoch: 387 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.162246
+
+Finish 387 epoch(s). Epoch loss: 0.1955883763730526.  Time of epoch:0:00:00.056074
+
+Train Epoch: 388 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.122065
+
+Finish 388 epoch(s). Epoch loss: 0.1802899269387126.  Time of epoch:0:00:00.045540
+
+Train Epoch: 389 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.138252
+
+Finish 389 epoch(s). Epoch loss: 0.17622393183410168.  Time of epoch:0:00:00.045482
+
+Train Epoch: 390 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.163597
+
+Finish 390 epoch(s). Epoch loss: 0.1929619824513793.  Time of epoch:0:00:00.063895
+
+Train Epoch: 391 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.184454
+
+Finish 391 epoch(s). Epoch loss: 0.19456150010228157.  Time of epoch:0:00:00.055201
+
+Train Epoch: 392 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.214173
+
+Finish 392 epoch(s). Epoch loss: 0.1778876818716526.  Time of epoch:0:00:00.056568
+
+Train Epoch: 393 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.153267
+
+Finish 393 epoch(s). Epoch loss: 0.16874228790402412.  Time of epoch:0:00:00.070528
+
+Train Epoch: 394 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.206424
+
+Finish 394 epoch(s). Epoch loss: 0.18061278201639652.  Time of epoch:0:00:00.049995
+
+Train Epoch: 395 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.226629
+
+Finish 395 epoch(s). Epoch loss: 0.18789970688521862.  Time of epoch:0:00:00.047577
+
+Train Epoch: 396 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.160046
+
+Finish 396 epoch(s). Epoch loss: 0.19410908222198486.  Time of epoch:0:00:00.046464
+
+Train Epoch: 397 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.193776
+
+Finish 397 epoch(s). Epoch loss: 0.18309856951236725.  Time of epoch:0:00:00.053574
+
+Train Epoch: 398 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.170968
+
+Finish 398 epoch(s). Epoch loss: 0.1848596716299653.  Time of epoch:0:00:00.046540
+
+Train Epoch: 399 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.226989
+
+Finish 399 epoch(s). Epoch loss: 0.18937416560947895.  Time of epoch:0:00:00.056459
+
+Train Epoch: 400 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.202072
+
+Finish 400 epoch(s). Epoch loss: 0.183752303943038.  Time of epoch:0:00:00.048090
+
+Train Epoch: 401 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.160075
+
+Finish 401 epoch(s). Epoch loss: 0.17611627094447613.  Time of epoch:0:00:00.072182
+
+Train Epoch: 402 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.190284
+
+Finish 402 epoch(s). Epoch loss: 0.1783729549497366.  Time of epoch:0:00:00.051738
+
+Train Epoch: 403 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.186183
+
+Finish 403 epoch(s). Epoch loss: 0.17011620290577412.  Time of epoch:0:00:00.051087
+
+Train Epoch: 404 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.193466
+
+Finish 404 epoch(s). Epoch loss: 0.17766842991113663.  Time of epoch:0:00:00.061001
+
+Train Epoch: 405 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.229664
+
+Finish 405 epoch(s). Epoch loss: 0.17456230148673058.  Time of epoch:0:00:00.054435
+
+Train Epoch: 406 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.166285
+
+Finish 406 epoch(s). Epoch loss: 0.1687836479395628.  Time of epoch:0:00:00.049902
+
+Train Epoch: 407 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.222484
+
+Finish 407 epoch(s). Epoch loss: 0.18943055905401707.  Time of epoch:0:00:00.044213
+
+Train Epoch: 408 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.144192
+
+Finish 408 epoch(s). Epoch loss: 0.1841607317328453.  Time of epoch:0:00:00.047798
+
+Train Epoch: 409 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.146562
+
+Finish 409 epoch(s). Epoch loss: 0.17857522331178188.  Time of epoch:0:00:00.048751
+
+Train Epoch: 410 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.153152
+
+Finish 410 epoch(s). Epoch loss: 0.17094853892922401.  Time of epoch:0:00:00.052501
+
+Train Epoch: 411 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.138272
+
+Finish 411 epoch(s). Epoch loss: 0.18605194240808487.  Time of epoch:0:00:00.052574
+
+Train Epoch: 412 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.153601
+
+Finish 412 epoch(s). Epoch loss: 0.18251401372253895.  Time of epoch:0:00:00.061895
+
+Train Epoch: 413 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.190566
+
+Finish 413 epoch(s). Epoch loss: 0.18154340982437134.  Time of epoch:0:00:00.048921
+
+Train Epoch: 414 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.086167
+
+Finish 414 epoch(s). Epoch loss: 0.17953478731215.  Time of epoch:0:00:00.046455
+
+Train Epoch: 415 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.168144
+
+Finish 415 epoch(s). Epoch loss: 0.1756131947040558.  Time of epoch:0:00:00.045640
+
+Train Epoch: 416 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.230940
+
+Finish 416 epoch(s). Epoch loss: 0.18416400998830795.  Time of epoch:0:00:00.048061
+
+Train Epoch: 417 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.151331
+
+Finish 417 epoch(s). Epoch loss: 0.18369692470878363.  Time of epoch:0:00:00.048122
+
+Train Epoch: 418 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.210339
+
+Finish 418 epoch(s). Epoch loss: 0.1927858665585518.  Time of epoch:0:00:00.045683
+
+Train Epoch: 419 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.150463
+
+Finish 419 epoch(s). Epoch loss: 0.16919928323477507.  Time of epoch:0:00:00.045481
+
+Train Epoch: 420 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.277170
+
+Finish 420 epoch(s). Epoch loss: 0.18017629720270634.  Time of epoch:0:00:00.047292
+
+Train Epoch: 421 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.129858
+
+Finish 421 epoch(s). Epoch loss: 0.19151852652430534.  Time of epoch:0:00:00.044684
+
+Train Epoch: 422 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.165328
+
+Finish 422 epoch(s). Epoch loss: 0.17724724672734737.  Time of epoch:0:00:00.053632
+
+Train Epoch: 423 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.199562
+
+Finish 423 epoch(s). Epoch loss: 0.20109743997454643.  Time of epoch:0:00:00.063532
+
+Train Epoch: 424 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.184985
+
+Finish 424 epoch(s). Epoch loss: 0.1933173667639494.  Time of epoch:0:00:00.055058
+
+Train Epoch: 425 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.233856
+
+Finish 425 epoch(s). Epoch loss: 0.1838056417182088.  Time of epoch:0:00:00.045991
+
+Train Epoch: 426 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.194221
+
+Finish 426 epoch(s). Epoch loss: 0.17119272239506245.  Time of epoch:0:00:00.048574
+
+Train Epoch: 427 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.174861
+
+Finish 427 epoch(s). Epoch loss: 0.19129723496735096.  Time of epoch:0:00:00.045834
+
+Train Epoch: 428 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.152765
+
+Finish 428 epoch(s). Epoch loss: 0.1769615150988102.  Time of epoch:0:00:00.056875
+
+Train Epoch: 429 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.163051
+
+Finish 429 epoch(s). Epoch loss: 0.16464584972709417.  Time of epoch:0:00:00.046377
+
+Train Epoch: 430 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.125236
+
+Finish 430 epoch(s). Epoch loss: 0.19577911496162415.  Time of epoch:0:00:00.047502
+
+Train Epoch: 431 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.187869
+
+Finish 431 epoch(s). Epoch loss: 0.17503317072987556.  Time of epoch:0:00:00.044990
+
+Train Epoch: 432 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.153827
+
+Finish 432 epoch(s). Epoch loss: 0.18825411330908537.  Time of epoch:0:00:00.058257
+
+Train Epoch: 433 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.212672
+
+Finish 433 epoch(s). Epoch loss: 0.18025963194668293.  Time of epoch:0:00:00.073063
+
+Train Epoch: 434 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.167729
+
+Finish 434 epoch(s). Epoch loss: 0.17270811088383198.  Time of epoch:0:00:00.046976
+
+Train Epoch: 435 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.234362
+
+Finish 435 epoch(s). Epoch loss: 0.18534675240516663.  Time of epoch:0:00:00.054304
+
+Train Epoch: 436 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.189393
+
+Finish 436 epoch(s). Epoch loss: 0.17652582470327616.  Time of epoch:0:00:00.046845
+
+Train Epoch: 437 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.222424
+
+Finish 437 epoch(s). Epoch loss: 0.16901353560388088.  Time of epoch:0:00:00.043962
+
+Train Epoch: 438 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.134875
+
+Finish 438 epoch(s). Epoch loss: 0.20036905631422997.  Time of epoch:0:00:00.048345
+
+Train Epoch: 439 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.137470
+
+Finish 439 epoch(s). Epoch loss: 0.1909543126821518.  Time of epoch:0:00:00.075640
+
+Train Epoch: 440 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.189452
+
+Finish 440 epoch(s). Epoch loss: 0.16406712494790554.  Time of epoch:0:00:00.047893
+
+Train Epoch: 441 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.232973
+
+Finish 441 epoch(s). Epoch loss: 0.19669539295136929.  Time of epoch:0:00:00.047248
+
+Train Epoch: 442 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.173419
+
+Finish 442 epoch(s). Epoch loss: 0.18885763734579086.  Time of epoch:0:00:00.045246
+
+Train Epoch: 443 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.210313
+
+Finish 443 epoch(s). Epoch loss: 0.17271369323134422.  Time of epoch:0:00:00.045366
+
+Train Epoch: 444 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.179814
+
+Finish 444 epoch(s). Epoch loss: 0.19565682671964169.  Time of epoch:0:00:00.043798
+
+Train Epoch: 445 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.162474
+
+Finish 445 epoch(s). Epoch loss: 0.17290495987981558.  Time of epoch:0:00:00.049352
+
+Train Epoch: 446 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.210095
+
+Finish 446 epoch(s). Epoch loss: 0.17344129271805286.  Time of epoch:0:00:00.044368
+
+Train Epoch: 447 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.185017
+
+Finish 447 epoch(s). Epoch loss: 0.1904992312192917.  Time of epoch:0:00:00.061956
+
+Train Epoch: 448 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.178613
+
+Finish 448 epoch(s). Epoch loss: 0.1833670437335968.  Time of epoch:0:00:00.044451
+
+Train Epoch: 449 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.178098
+
+Finish 449 epoch(s). Epoch loss: 0.17163938842713833.  Time of epoch:0:00:00.049555
+
+Train Epoch: 450 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.230889
+
+Finish 450 epoch(s). Epoch loss: 0.18905095010995865.  Time of epoch:0:00:00.044353
+
+Train Epoch: 451 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.148534
+
+Finish 451 epoch(s). Epoch loss: 0.2012021467089653.  Time of epoch:0:00:00.044229
+
+Train Epoch: 452 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.207229
+
+Finish 452 epoch(s). Epoch loss: 0.18489966075867414.  Time of epoch:0:00:00.058183
+
+Train Epoch: 453 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.123332
+
+Finish 453 epoch(s). Epoch loss: 0.16261906828731298.  Time of epoch:0:00:00.050934
+
+Train Epoch: 454 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.139746
+
+Finish 454 epoch(s). Epoch loss: 0.1899678148329258.  Time of epoch:0:00:00.054058
+
+Train Epoch: 455 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.126234
+
+Finish 455 epoch(s). Epoch loss: 0.18257101625204086.  Time of epoch:0:00:00.047684
+
+Train Epoch: 456 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.206429
+
+Finish 456 epoch(s). Epoch loss: 0.1877750139683485.  Time of epoch:0:00:00.055384
+
+Train Epoch: 457 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.184408
+
+Finish 457 epoch(s). Epoch loss: 0.18989428225904703.  Time of epoch:0:00:00.044541
+
+Train Epoch: 458 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.144354
+
+Finish 458 epoch(s). Epoch loss: 0.17842175997793674.  Time of epoch:0:00:00.047583
+
+Train Epoch: 459 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.200425
+
+Finish 459 epoch(s). Epoch loss: 0.19592496939003468.  Time of epoch:0:00:00.048758
+
+Train Epoch: 460 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.166887
+
+Finish 460 epoch(s). Epoch loss: 0.18109697196632624.  Time of epoch:0:00:00.044944
+
+Train Epoch: 461 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.193467
+
+Finish 461 epoch(s). Epoch loss: 0.18580465950071812.  Time of epoch:0:00:00.044084
+
+Train Epoch: 462 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.192823
+
+Finish 462 epoch(s). Epoch loss: 0.18137565068900585.  Time of epoch:0:00:00.043997
+
+Train Epoch: 463 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.252192
+
+Finish 463 epoch(s). Epoch loss: 0.18992995750159025.  Time of epoch:0:00:00.043932
+
+Train Epoch: 464 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.238199
+
+Finish 464 epoch(s). Epoch loss: 0.20018216595053673.  Time of epoch:0:00:00.053665
+
+Train Epoch: 465 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.205204
+
+Finish 465 epoch(s). Epoch loss: 0.19958120957016945.  Time of epoch:0:00:00.044040
+
+Train Epoch: 466 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.200508
+
+Finish 466 epoch(s). Epoch loss: 0.19965705834329128.  Time of epoch:0:00:00.044373
+
+Train Epoch: 467 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.135347
+
+Finish 467 epoch(s). Epoch loss: 0.16799932345747948.  Time of epoch:0:00:00.048710
+
+Train Epoch: 468 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.134898
+
+Finish 468 epoch(s). Epoch loss: 0.197120426222682.  Time of epoch:0:00:00.044130
+
+Train Epoch: 469 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.138604
+
+Finish 469 epoch(s). Epoch loss: 0.18175212666392326.  Time of epoch:0:00:00.043913
+
+Train Epoch: 470 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.083892
+
+Finish 470 epoch(s). Epoch loss: 0.17959646228700876.  Time of epoch:0:00:00.052428
+
+Train Epoch: 471 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.193082
+
+Finish 471 epoch(s). Epoch loss: 0.1822107993066311.  Time of epoch:0:00:00.044188
+
+Train Epoch: 472 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.152252
+
+Finish 472 epoch(s). Epoch loss: 0.18650984205305576.  Time of epoch:0:00:00.056943
+
+Train Epoch: 473 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.218691
+
+Finish 473 epoch(s). Epoch loss: 0.17052045837044716.  Time of epoch:0:00:00.051297
+
+Train Epoch: 474 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.156920
+
+Finish 474 epoch(s). Epoch loss: 0.1798105090856552.  Time of epoch:0:00:00.047617
+
+Train Epoch: 475 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.181499
+
+Finish 475 epoch(s). Epoch loss: 0.18645472452044487.  Time of epoch:0:00:00.047772
+
+Train Epoch: 476 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.192823
+
+Finish 476 epoch(s). Epoch loss: 0.1794440010562539.  Time of epoch:0:00:00.044018
+
+Train Epoch: 477 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.224009
+
+Finish 477 epoch(s). Epoch loss: 0.17417939379811287.  Time of epoch:0:00:00.044432
+
+Train Epoch: 478 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.249885
+
+Finish 478 epoch(s). Epoch loss: 0.19804018456488848.  Time of epoch:0:00:00.051102
+
+Train Epoch: 479 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.143744
+
+Finish 479 epoch(s). Epoch loss: 0.18575081415474415.  Time of epoch:0:00:00.045104
+
+Train Epoch: 480 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.157224
+
+Finish 480 epoch(s). Epoch loss: 0.18746052496135235.  Time of epoch:0:00:00.043968
+
+Train Epoch: 481 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.158109
+
+Finish 481 epoch(s). Epoch loss: 0.17625796049833298.  Time of epoch:0:00:00.044122
+
+Train Epoch: 482 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.141577
+
+Finish 482 epoch(s). Epoch loss: 0.178517147898674.  Time of epoch:0:00:00.044132
+
+Train Epoch: 483 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.087480
+
+Finish 483 epoch(s). Epoch loss: 0.1992166619747877.  Time of epoch:0:00:00.044035
+
+Train Epoch: 484 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.219925
+
+Finish 484 epoch(s). Epoch loss: 0.19988982565701008.  Time of epoch:0:00:00.043963
+
+Train Epoch: 485 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.156536
+
+Finish 485 epoch(s). Epoch loss: 0.19294042512774467.  Time of epoch:0:00:00.051689
+
+Train Epoch: 486 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.273957
+
+Finish 486 epoch(s). Epoch loss: 0.1827493915334344.  Time of epoch:0:00:00.044674
+
+Train Epoch: 487 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.182202
+
+Finish 487 epoch(s). Epoch loss: 0.18041340820491314.  Time of epoch:0:00:00.045038
+
+Train Epoch: 488 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.183017
+
+Finish 488 epoch(s). Epoch loss: 0.17583894915878773.  Time of epoch:0:00:00.063515
+
+Train Epoch: 489 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.245294
+
+Finish 489 epoch(s). Epoch loss: 0.20933314692229033.  Time of epoch:0:00:00.049998
+
+Train Epoch: 490 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.300371
+
+Finish 490 epoch(s). Epoch loss: 0.19311637245118618.  Time of epoch:0:00:00.063302
+
+Train Epoch: 491 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.197942
+
+Finish 491 epoch(s). Epoch loss: 0.18780604377388954.  Time of epoch:0:00:00.048980
+
+Train Epoch: 492 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.212511
+
+Finish 492 epoch(s). Epoch loss: 0.18252997938543558.  Time of epoch:0:00:00.047940
+
+Train Epoch: 493 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.166886
+
+Finish 493 epoch(s). Epoch loss: 0.17306855227798223.  Time of epoch:0:00:00.046625
+
+Train Epoch: 494 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.154620
+
+Finish 494 epoch(s). Epoch loss: 0.16779774706810713.  Time of epoch:0:00:00.098676
+
+Train Epoch: 495 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.202263
+
+Finish 495 epoch(s). Epoch loss: 0.20007587783038616.  Time of epoch:0:00:00.046167
+
+Train Epoch: 496 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.216513
+
+Finish 496 epoch(s). Epoch loss: 0.17783964797854424.  Time of epoch:0:00:00.045577
+
+Train Epoch: 497 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.184438
+
+Finish 497 epoch(s). Epoch loss: 0.19839517585933208.  Time of epoch:0:00:00.045480
+
+Train Epoch: 498 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.130209
+
+Finish 498 epoch(s). Epoch loss: 0.17384926415979862.  Time of epoch:0:00:00.048205
+
+Train Epoch: 499 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.174513
+
+Finish 499 epoch(s). Epoch loss: 0.1689266376197338.  Time of epoch:0:00:00.045965
+
+Train Epoch: 500 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.164338
+
+Finish 500 epoch(s). Epoch loss: 0.1858906541019678.  Time of epoch:0:00:00.051030
+
+Train Epoch: 501 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.129889
+
+Finish 501 epoch(s). Epoch loss: 0.19953061640262604.  Time of epoch:0:00:00.048788
+
+Train Epoch: 502 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.139393
+
+Finish 502 epoch(s). Epoch loss: 0.17228315770626068.  Time of epoch:0:00:00.046788
+
+Train Epoch: 503 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.166136
+
+Finish 503 epoch(s). Epoch loss: 0.17104025930166245.  Time of epoch:0:00:00.047051
+
+Train Epoch: 504 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.185770
+
+Finish 504 epoch(s). Epoch loss: 0.17773090302944183.  Time of epoch:0:00:00.044368
+
+Train Epoch: 505 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.161611
+
+Finish 505 epoch(s). Epoch loss: 0.17993096821010113.  Time of epoch:0:00:00.045936
+
+Train Epoch: 506 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.188871
+
+Finish 506 epoch(s). Epoch loss: 0.17319108918309212.  Time of epoch:0:00:00.046649
+
+Train Epoch: 507 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.161579
+
+Finish 507 epoch(s). Epoch loss: 0.19659587927162647.  Time of epoch:0:00:00.044758
+
+Train Epoch: 508 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.200284
+
+Finish 508 epoch(s). Epoch loss: 0.17029591277241707.  Time of epoch:0:00:00.045451
+
+Train Epoch: 509 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.141215
+
+Finish 509 epoch(s). Epoch loss: 0.18593171797692776.  Time of epoch:0:00:00.048204
+
+Train Epoch: 510 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.139128
+
+Finish 510 epoch(s). Epoch loss: 0.18270194809883833.  Time of epoch:0:00:00.048325
+
+Train Epoch: 511 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.211777
+
+Finish 511 epoch(s). Epoch loss: 0.19428851082921028.  Time of epoch:0:00:00.043848
+
+Train Epoch: 512 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.221393
+
+Finish 512 epoch(s). Epoch loss: 0.18762007728219032.  Time of epoch:0:00:00.067313
+
+Train Epoch: 513 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.186192
+
+Finish 513 epoch(s). Epoch loss: 0.18652719631791115.  Time of epoch:0:00:00.055551
+
+Train Epoch: 514 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.296651
+
+Finish 514 epoch(s). Epoch loss: 0.18260961771011353.  Time of epoch:0:00:00.054712
+
+Train Epoch: 515 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.155792
+
+Finish 515 epoch(s). Epoch loss: 0.1675835270434618.  Time of epoch:0:00:00.050546
+
+Train Epoch: 516 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.231677
+
+Finish 516 epoch(s). Epoch loss: 0.1882384717464447.  Time of epoch:0:00:00.069437
+
+Train Epoch: 517 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.143523
+
+Finish 517 epoch(s). Epoch loss: 0.19174273498356342.  Time of epoch:0:00:00.066996
+
+Train Epoch: 518 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.239529
+
+Finish 518 epoch(s). Epoch loss: 0.1885590571910143.  Time of epoch:0:00:00.090427
+
+Train Epoch: 519 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.141338
+
+Finish 519 epoch(s). Epoch loss: 0.18292055372148752.  Time of epoch:0:00:00.055665
+
+Train Epoch: 520 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.160359
+
+Finish 520 epoch(s). Epoch loss: 0.17534947767853737.  Time of epoch:0:00:00.054488
+
+Train Epoch: 521 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.116282
+
+Finish 521 epoch(s). Epoch loss: 0.1761148227378726.  Time of epoch:0:00:00.058255
+
+Train Epoch: 522 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.189997
+
+Finish 522 epoch(s). Epoch loss: 0.19222080521285534.  Time of epoch:0:00:00.052870
+
+Train Epoch: 523 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.204197
+
+Finish 523 epoch(s). Epoch loss: 0.1743658222258091.  Time of epoch:0:00:00.061702
+
+Train Epoch: 524 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.138375
+
+Finish 524 epoch(s). Epoch loss: 0.1721546482294798.  Time of epoch:0:00:00.054523
+
+Train Epoch: 525 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.209692
+
+Finish 525 epoch(s). Epoch loss: 0.17150823585689068.  Time of epoch:0:00:00.058477
+
+Train Epoch: 526 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.187607
+
+Finish 526 epoch(s). Epoch loss: 0.18034499138593674.  Time of epoch:0:00:00.054951
+
+Train Epoch: 527 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.253036
+
+Finish 527 epoch(s). Epoch loss: 0.19837270211428404.  Time of epoch:0:00:00.059389
+
+Train Epoch: 528 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.118614
+
+Finish 528 epoch(s). Epoch loss: 0.17488698195666075.  Time of epoch:0:00:00.052983
+
+Train Epoch: 529 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.141692
+
+Finish 529 epoch(s). Epoch loss: 0.16688628867268562.  Time of epoch:0:00:00.056322
+
+Train Epoch: 530 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.212541
+
+Finish 530 epoch(s). Epoch loss: 0.19509188830852509.  Time of epoch:0:00:00.053867
+
+Train Epoch: 531 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.156236
+
+Finish 531 epoch(s). Epoch loss: 0.2053638342767954.  Time of epoch:0:00:00.058231
+
+Train Epoch: 532 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.189631
+
+Finish 532 epoch(s). Epoch loss: 0.18016464076936245.  Time of epoch:0:00:00.051480
+
+Train Epoch: 533 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.174792
+
+Finish 533 epoch(s). Epoch loss: 0.16547907143831253.  Time of epoch:0:00:00.054189
+
+Train Epoch: 534 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.243096
+
+Finish 534 epoch(s). Epoch loss: 0.1808418445289135.  Time of epoch:0:00:00.056403
+
+Train Epoch: 535 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.204490
+
+Finish 535 epoch(s). Epoch loss: 0.19224409386515617.  Time of epoch:0:00:00.086278
+
+Train Epoch: 536 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.205515
+
+Finish 536 epoch(s). Epoch loss: 0.1850060224533081.  Time of epoch:0:00:00.098963
+
+Train Epoch: 537 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.205697
+
+Finish 537 epoch(s). Epoch loss: 0.18487175647169352.  Time of epoch:0:00:00.058354
+
+Train Epoch: 538 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.300187
+
+Finish 538 epoch(s). Epoch loss: 0.21401243098080158.  Time of epoch:0:00:00.066469
+
+Train Epoch: 539 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.205572
+
+Finish 539 epoch(s). Epoch loss: 0.18216350115835667.  Time of epoch:0:00:00.055693
+
+Train Epoch: 540 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.171920
+
+Finish 540 epoch(s). Epoch loss: 0.17632860504090786.  Time of epoch:0:00:00.059056
+
+Train Epoch: 541 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.240197
+
+Finish 541 epoch(s). Epoch loss: 0.19980853982269764.  Time of epoch:0:00:00.056008
+
+Train Epoch: 542 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.164731
+
+Finish 542 epoch(s). Epoch loss: 0.18798349983990192.  Time of epoch:0:00:00.065371
+
+Train Epoch: 543 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.118630
+
+Finish 543 epoch(s). Epoch loss: 0.17939053382724524.  Time of epoch:0:00:00.048245
+
+Train Epoch: 544 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.182535
+
+Finish 544 epoch(s). Epoch loss: 0.1785856643691659.  Time of epoch:0:00:00.045766
+
+Train Epoch: 545 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.198197
+
+Finish 545 epoch(s). Epoch loss: 0.19684749841690063.  Time of epoch:0:00:00.066880
+
+Train Epoch: 546 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.286451
+
+Finish 546 epoch(s). Epoch loss: 0.18970285542309284.  Time of epoch:0:00:00.066971
+
+Train Epoch: 547 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.173747
+
+Finish 547 epoch(s). Epoch loss: 0.18386512994766235.  Time of epoch:0:00:00.057544
+
+Train Epoch: 548 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.205713
+
+Finish 548 epoch(s). Epoch loss: 0.18512912467122078.  Time of epoch:0:00:00.059020
+
+Train Epoch: 549 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.176171
+
+Finish 549 epoch(s). Epoch loss: 0.19723987393081188.  Time of epoch:0:00:00.055221
+
+Train Epoch: 550 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.217272
+
+Finish 550 epoch(s). Epoch loss: 0.18858192674815655.  Time of epoch:0:00:00.050365
+
+Train Epoch: 551 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.198505
+
+Finish 551 epoch(s). Epoch loss: 0.18248997628688812.  Time of epoch:0:00:00.076315
+
+Train Epoch: 552 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.252883
+
+Finish 552 epoch(s). Epoch loss: 0.18527689762413502.  Time of epoch:0:00:00.066046
+
+Train Epoch: 553 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.191493
+
+Finish 553 epoch(s). Epoch loss: 0.17746161948889494.  Time of epoch:0:00:00.101561
+
+Train Epoch: 554 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.230156
+
+Finish 554 epoch(s). Epoch loss: 0.186035867780447.  Time of epoch:0:00:00.100185
+
+Train Epoch: 555 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.184517
+
+Finish 555 epoch(s). Epoch loss: 0.18742450512945652.  Time of epoch:0:00:00.077838
+
+Train Epoch: 556 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.173394
+
+Finish 556 epoch(s). Epoch loss: 0.1819120068103075.  Time of epoch:0:00:00.065200
+
+Train Epoch: 557 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.302725
+
+Finish 557 epoch(s). Epoch loss: 0.18897923454642296.  Time of epoch:0:00:00.048271
+
+Train Epoch: 558 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.148007
+
+Finish 558 epoch(s). Epoch loss: 0.18046178109943867.  Time of epoch:0:00:00.045522
+
+Train Epoch: 559 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.246882
+
+Finish 559 epoch(s). Epoch loss: 0.1762021854519844.  Time of epoch:0:00:00.046148
+
+Train Epoch: 560 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.156116
+
+Finish 560 epoch(s). Epoch loss: 0.18022396601736546.  Time of epoch:0:00:00.045746
+
+Train Epoch: 561 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.117097
+
+Finish 561 epoch(s). Epoch loss: 0.19102306943386793.  Time of epoch:0:00:00.053065
+
+Train Epoch: 562 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.162046
+
+Finish 562 epoch(s). Epoch loss: 0.15695944242179394.  Time of epoch:0:00:00.046705
+
+Train Epoch: 563 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.229773
+
+Finish 563 epoch(s). Epoch loss: 0.17068331316113472.  Time of epoch:0:00:00.045808
+
+Train Epoch: 564 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.186375
+
+Finish 564 epoch(s). Epoch loss: 0.18416516110301018.  Time of epoch:0:00:00.045388
+
+Train Epoch: 565 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.163302
+
+Finish 565 epoch(s). Epoch loss: 0.19472347758710384.  Time of epoch:0:00:00.045749
+
+Train Epoch: 566 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.207142
+
+Finish 566 epoch(s). Epoch loss: 0.18763493280857801.  Time of epoch:0:00:00.078238
+
+Train Epoch: 567 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.154362
+
+Finish 567 epoch(s). Epoch loss: 0.18239192944020033.  Time of epoch:0:00:00.083123
+
+Train Epoch: 568 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.247225
+
+Finish 568 epoch(s). Epoch loss: 0.18990084156394005.  Time of epoch:0:00:00.055333
+
+Train Epoch: 569 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.275391
+
+Finish 569 epoch(s). Epoch loss: 0.20582945086061954.  Time of epoch:0:00:00.063092
+
+Train Epoch: 570 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.242535
+
+Finish 570 epoch(s). Epoch loss: 0.20488557405769825.  Time of epoch:0:00:00.067528
+
+Train Epoch: 571 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.238695
+
+Finish 571 epoch(s). Epoch loss: 0.1732461405918002.  Time of epoch:0:00:00.049849
+
+Train Epoch: 572 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.204563
+
+Finish 572 epoch(s). Epoch loss: 0.18836175091564655.  Time of epoch:0:00:00.069280
+
+Train Epoch: 573 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.195228
+
+Finish 573 epoch(s). Epoch loss: 0.1589695392176509.  Time of epoch:0:00:00.045924
+
+Train Epoch: 574 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.153835
+
+Finish 574 epoch(s). Epoch loss: 0.17510825209319592.  Time of epoch:0:00:00.046830
+
+Train Epoch: 575 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.135724
+
+Finish 575 epoch(s). Epoch loss: 0.1602318063378334.  Time of epoch:0:00:00.080190
+
+Train Epoch: 576 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.183141
+
+Finish 576 epoch(s). Epoch loss: 0.18761026114225388.  Time of epoch:0:00:00.092334
+
+Train Epoch: 577 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.190517
+
+Finish 577 epoch(s). Epoch loss: 0.1784836035221815.  Time of epoch:0:00:00.101900
+
+Train Epoch: 578 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.181707
+
+Finish 578 epoch(s). Epoch loss: 0.1715130005031824.  Time of epoch:0:00:00.091344
+
+Train Epoch: 579 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.149652
+
+Finish 579 epoch(s). Epoch loss: 0.18616367131471634.  Time of epoch:0:00:00.094540
+
+Train Epoch: 580 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.157768
+
+Finish 580 epoch(s). Epoch loss: 0.17493542935699224.  Time of epoch:0:00:00.086953
+
+Train Epoch: 581 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.180307
+
+Finish 581 epoch(s). Epoch loss: 0.17197590321302414.  Time of epoch:0:00:00.250947
+
+Train Epoch: 582 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.224666
+
+Finish 582 epoch(s). Epoch loss: 0.16656782384961843.  Time of epoch:0:00:00.073908
+
+Train Epoch: 583 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.193171
+
+Finish 583 epoch(s). Epoch loss: 0.17647709883749485.  Time of epoch:0:00:00.047795
+
+Train Epoch: 584 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.159350
+
+Finish 584 epoch(s). Epoch loss: 0.16447899397462606.  Time of epoch:0:00:00.065973
+
+Train Epoch: 585 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.174891
+
+Finish 585 epoch(s). Epoch loss: 0.2001570127904415.  Time of epoch:0:00:00.093911
+
+Train Epoch: 586 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.212014
+
+Finish 586 epoch(s). Epoch loss: 0.20618469640612602.  Time of epoch:0:00:00.125599
+
+Train Epoch: 587 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.119306
+
+Finish 587 epoch(s). Epoch loss: 0.19466952048242092.  Time of epoch:0:00:00.129580
+
+Train Epoch: 588 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.203622
+
+Finish 588 epoch(s). Epoch loss: 0.1923227533698082.  Time of epoch:0:00:00.144101
+
+Train Epoch: 589 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.195181
+
+Finish 589 epoch(s). Epoch loss: 0.19549660570919514.  Time of epoch:0:00:00.086525
+
+Train Epoch: 590 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.190554
+
+Finish 590 epoch(s). Epoch loss: 0.18369096517562866.  Time of epoch:0:00:00.059869
+
+Train Epoch: 591 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.233847
+
+Finish 591 epoch(s). Epoch loss: 0.192751107737422.  Time of epoch:0:00:00.076139
+
+Train Epoch: 592 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.193085
+
+Finish 592 epoch(s). Epoch loss: 0.17725841142237186.  Time of epoch:0:00:00.090011
+
+Train Epoch: 593 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.215652
+
+Finish 593 epoch(s). Epoch loss: 0.16553242318332195.  Time of epoch:0:00:00.050710
+
+Train Epoch: 594 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.197274
+
+Finish 594 epoch(s). Epoch loss: 0.1690663704648614.  Time of epoch:0:00:00.052391
+
+Train Epoch: 595 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.178792
+
+Finish 595 epoch(s). Epoch loss: 0.17183714173734188.  Time of epoch:0:00:00.102866
+
+Train Epoch: 596 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.284584
+
+Finish 596 epoch(s). Epoch loss: 0.18646448478102684.  Time of epoch:0:00:00.096890
+
+Train Epoch: 597 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.196400
+
+Finish 597 epoch(s). Epoch loss: 0.1771117001771927.  Time of epoch:0:00:00.092267
+
+Train Epoch: 598 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.258590
+
+Finish 598 epoch(s). Epoch loss: 0.18956727720797062.  Time of epoch:0:00:00.097927
+
+Train Epoch: 599 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.194377
+
+Finish 599 epoch(s). Epoch loss: 0.15663259383291006.  Time of epoch:0:00:00.079949
+
+Train Epoch: 600 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.221594
+
+Finish 600 epoch(s). Epoch loss: 0.1758666392415762.  Time of epoch:0:00:00.092214
+
+Train Epoch: 601 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.188182
+
+Finish 601 epoch(s). Epoch loss: 0.16723597887903452.  Time of epoch:0:00:00.086728
+
+Train Epoch: 602 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.210385
+
+Finish 602 epoch(s). Epoch loss: 0.1803395189344883.  Time of epoch:0:00:00.091918
+
+Train Epoch: 603 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.175459
+
+Finish 603 epoch(s). Epoch loss: 0.18132304586470127.  Time of epoch:0:00:00.106380
+
+Train Epoch: 604 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.187516
+
+Finish 604 epoch(s). Epoch loss: 0.18861978966742754.  Time of epoch:0:00:00.107967
+
+Train Epoch: 605 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.184724
+
+Finish 605 epoch(s). Epoch loss: 0.17878875508904457.  Time of epoch:0:00:00.091409
+
+Train Epoch: 606 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.228913
+
+Finish 606 epoch(s). Epoch loss: 0.17448734026402235.  Time of epoch:0:00:00.097412
+
+Train Epoch: 607 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.214059
+
+Finish 607 epoch(s). Epoch loss: 0.1915019415318966.  Time of epoch:0:00:00.075274
+
+Train Epoch: 608 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.219089
+
+Finish 608 epoch(s). Epoch loss: 0.18489949218928814.  Time of epoch:0:00:00.088098
+
+Train Epoch: 609 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.206498
+
+Finish 609 epoch(s). Epoch loss: 0.18602773919701576.  Time of epoch:0:00:00.074430
+
+Train Epoch: 610 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.170217
+
+Finish 610 epoch(s). Epoch loss: 0.1800270788371563.  Time of epoch:0:00:00.048665
+
+Train Epoch: 611 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.174930
+
+Finish 611 epoch(s). Epoch loss: 0.18741068430244923.  Time of epoch:0:00:00.053759
+
+Train Epoch: 612 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.128225
+
+Finish 612 epoch(s). Epoch loss: 0.17581149749457836.  Time of epoch:0:00:00.086961
+
+Train Epoch: 613 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.311298
+
+Finish 613 epoch(s). Epoch loss: 0.20252909697592258.  Time of epoch:0:00:00.053638
+
+Train Epoch: 614 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.199780
+
+Finish 614 epoch(s). Epoch loss: 0.18455742299556732.  Time of epoch:0:00:00.070382
+
+Train Epoch: 615 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.219207
+
+Finish 615 epoch(s). Epoch loss: 0.186201979406178.  Time of epoch:0:00:00.058852
+
+Train Epoch: 616 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.150547
+
+Finish 616 epoch(s). Epoch loss: 0.16646433994174004.  Time of epoch:0:00:00.064370
+
+Train Epoch: 617 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.141623
+
+Finish 617 epoch(s). Epoch loss: 0.18656255677342415.  Time of epoch:0:00:00.091949
+
+Train Epoch: 618 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.137355
+
+Finish 618 epoch(s). Epoch loss: 0.16831092908978462.  Time of epoch:0:00:00.078248
+
+Train Epoch: 619 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.192132
+
+Finish 619 epoch(s). Epoch loss: 0.17016634531319141.  Time of epoch:0:00:00.083836
+
+Train Epoch: 620 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.207018
+
+Finish 620 epoch(s). Epoch loss: 0.18284333031624556.  Time of epoch:0:00:00.091829
+
+Train Epoch: 621 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.155574
+
+Finish 621 epoch(s). Epoch loss: 0.1764119565486908.  Time of epoch:0:00:00.082895
+
+Train Epoch: 622 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.214436
+
+Finish 622 epoch(s). Epoch loss: 0.19837240502238274.  Time of epoch:0:00:00.069216
+
+Train Epoch: 623 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.189117
+
+Finish 623 epoch(s). Epoch loss: 0.18138836976140738.  Time of epoch:0:00:00.089553
+
+Train Epoch: 624 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.153359
+
+Finish 624 epoch(s). Epoch loss: 0.17396746575832367.  Time of epoch:0:00:00.085123
+
+Train Epoch: 625 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.169391
+
+Finish 625 epoch(s). Epoch loss: 0.19151056744158268.  Time of epoch:0:00:00.047952
+
+Train Epoch: 626 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.248018
+
+Finish 626 epoch(s). Epoch loss: 0.2029064130038023.  Time of epoch:0:00:00.051991
+
+Train Epoch: 627 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.176357
+
+Finish 627 epoch(s). Epoch loss: 0.1730139832943678.  Time of epoch:0:00:00.065123
+
+Train Epoch: 628 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.195236
+
+Finish 628 epoch(s). Epoch loss: 0.17586620338261127.  Time of epoch:0:00:00.063192
+
+Train Epoch: 629 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.153181
+
+Finish 629 epoch(s). Epoch loss: 0.20149674080312252.  Time of epoch:0:00:00.082265
+
+Train Epoch: 630 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.119961
+
+Finish 630 epoch(s). Epoch loss: 0.167880080640316.  Time of epoch:0:00:00.124544
+
+Train Epoch: 631 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.187872
+
+Finish 631 epoch(s). Epoch loss: 0.1722818510606885.  Time of epoch:0:00:00.102084
+
+Train Epoch: 632 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.158591
+
+Finish 632 epoch(s). Epoch loss: 0.17830372042953968.  Time of epoch:0:00:00.102459
+
+Train Epoch: 633 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.210665
+
+Finish 633 epoch(s). Epoch loss: 0.20499967969954014.  Time of epoch:0:00:00.110534
+
+Train Epoch: 634 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.140148
+
+Finish 634 epoch(s). Epoch loss: 0.17539867758750916.  Time of epoch:0:00:00.149097
+
+Train Epoch: 635 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.164091
+
+Finish 635 epoch(s). Epoch loss: 0.18619883619248867.  Time of epoch:0:00:00.124290
+
+Train Epoch: 636 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.258402
+
+Finish 636 epoch(s). Epoch loss: 0.1921960785984993.  Time of epoch:0:00:00.094442
+
+Train Epoch: 637 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.169572
+
+Finish 637 epoch(s). Epoch loss: 0.18355502746999264.  Time of epoch:0:00:00.078273
+
+Train Epoch: 638 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.250670
+
+Finish 638 epoch(s). Epoch loss: 0.18004228360950947.  Time of epoch:0:00:00.079846
+
+Train Epoch: 639 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.221485
+
+Finish 639 epoch(s). Epoch loss: 0.1913812905550003.  Time of epoch:0:00:00.112820
+
+Train Epoch: 640 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.166127
+
+Finish 640 epoch(s). Epoch loss: 0.17663413286209106.  Time of epoch:0:00:00.068811
+
+Train Epoch: 641 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.181396
+
+Finish 641 epoch(s). Epoch loss: 0.18329252116382122.  Time of epoch:0:00:00.082916
+
+Train Epoch: 642 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.135641
+
+Finish 642 epoch(s). Epoch loss: 0.1843361295759678.  Time of epoch:0:00:00.084851
+
+Train Epoch: 643 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.145226
+
+Finish 643 epoch(s). Epoch loss: 0.17159964703023434.  Time of epoch:0:00:00.097751
+
+Train Epoch: 644 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.220626
+
+Finish 644 epoch(s). Epoch loss: 0.19137125089764595.  Time of epoch:0:00:00.079431
+
+Train Epoch: 645 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.185153
+
+Finish 645 epoch(s). Epoch loss: 0.17324958741664886.  Time of epoch:0:00:00.075149
+
+Train Epoch: 646 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.171399
+
+Finish 646 epoch(s). Epoch loss: 0.1770441085100174.  Time of epoch:0:00:00.052749
+
+Train Epoch: 647 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.196876
+
+Finish 647 epoch(s). Epoch loss: 0.20917186327278614.  Time of epoch:0:00:00.045563
+
+Train Epoch: 648 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.189525
+
+Finish 648 epoch(s). Epoch loss: 0.18440795876085758.  Time of epoch:0:00:00.044142
+
+Train Epoch: 649 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.164564
+
+Finish 649 epoch(s). Epoch loss: 0.201469037681818.  Time of epoch:0:00:00.070218
+
+Train Epoch: 650 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.184346
+
+Finish 650 epoch(s). Epoch loss: 0.1847579488530755.  Time of epoch:0:00:00.100321
+
+Train Epoch: 651 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.122538
+
+Finish 651 epoch(s). Epoch loss: 0.17847634386271238.  Time of epoch:0:00:00.052195
+
+Train Epoch: 652 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.159002
+
+Finish 652 epoch(s). Epoch loss: 0.20051425695419312.  Time of epoch:0:00:00.044312
+
+Train Epoch: 653 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.199529
+
+Finish 653 epoch(s). Epoch loss: 0.18928390555083752.  Time of epoch:0:00:00.043187
+
+Train Epoch: 654 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.207714
+
+Finish 654 epoch(s). Epoch loss: 0.18650943040847778.  Time of epoch:0:00:00.068868
+
+Train Epoch: 655 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.219746
+
+Finish 655 epoch(s). Epoch loss: 0.19104623794555664.  Time of epoch:0:00:00.132119
+
+Train Epoch: 656 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.149882
+
+Finish 656 epoch(s). Epoch loss: 0.21650589257478714.  Time of epoch:0:00:00.088877
+
+Train Epoch: 657 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.160003
+
+Finish 657 epoch(s). Epoch loss: 0.18467651307582855.  Time of epoch:0:00:00.072081
+
+Train Epoch: 658 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.161164
+
+Finish 658 epoch(s). Epoch loss: 0.19386166706681252.  Time of epoch:0:00:00.089176
+
+Train Epoch: 659 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.174401
+
+Finish 659 epoch(s). Epoch loss: 0.18648006487637758.  Time of epoch:0:00:00.094321
+
+Train Epoch: 660 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.200938
+
+Finish 660 epoch(s). Epoch loss: 0.18459268938750029.  Time of epoch:0:00:00.087509
+
+Train Epoch: 661 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.205824
+
+Finish 661 epoch(s). Epoch loss: 0.1781528014689684.  Time of epoch:0:00:00.092427
+
+Train Epoch: 662 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.244653
+
+Finish 662 epoch(s). Epoch loss: 0.1917734518647194.  Time of epoch:0:00:00.091266
+
+Train Epoch: 663 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.116890
+
+Finish 663 epoch(s). Epoch loss: 0.17071792669594288.  Time of epoch:0:00:00.071181
+
+Train Epoch: 664 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.206089
+
+Finish 664 epoch(s). Epoch loss: 0.18062740378081799.  Time of epoch:0:00:00.090039
+
+Train Epoch: 665 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.200475
+
+Finish 665 epoch(s). Epoch loss: 0.18091964349150658.  Time of epoch:0:00:00.112237
+
+Train Epoch: 666 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.163543
+
+Finish 666 epoch(s). Epoch loss: 0.18886136263608932.  Time of epoch:0:00:00.115649
+
+Train Epoch: 667 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.162909
+
+Finish 667 epoch(s). Epoch loss: 0.18058921582996845.  Time of epoch:0:00:00.114604
+
+Train Epoch: 668 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.148869
+
+Finish 668 epoch(s). Epoch loss: 0.19127730280160904.  Time of epoch:0:00:00.082569
+
+Train Epoch: 669 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.207729
+
+Finish 669 epoch(s). Epoch loss: 0.17724368255585432.  Time of epoch:0:00:00.082138
+
+Train Epoch: 670 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.206477
+
+Finish 670 epoch(s). Epoch loss: 0.18294499814510345.  Time of epoch:0:00:00.155403
+
+Train Epoch: 671 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.195831
+
+Finish 671 epoch(s). Epoch loss: 0.1798082534223795.  Time of epoch:0:00:00.084267
+
+Train Epoch: 672 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.143354
+
+Finish 672 epoch(s). Epoch loss: 0.18305622041225433.  Time of epoch:0:00:00.086915
+
+Train Epoch: 673 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.221689
+
+Finish 673 epoch(s). Epoch loss: 0.19376743584871292.  Time of epoch:0:00:00.124335
+
+Train Epoch: 674 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.260673
+
+Finish 674 epoch(s). Epoch loss: 0.21978585980832577.  Time of epoch:0:00:00.080104
+
+Train Epoch: 675 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.194418
+
+Finish 675 epoch(s). Epoch loss: 0.1957927355542779.  Time of epoch:0:00:00.077027
+
+Train Epoch: 676 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.180303
+
+Finish 676 epoch(s). Epoch loss: 0.2004321962594986.  Time of epoch:0:00:00.125142
+
+Train Epoch: 677 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.135662
+
+Finish 677 epoch(s). Epoch loss: 0.1670157015323639.  Time of epoch:0:00:00.124127
+
+Train Epoch: 678 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.170011
+
+Finish 678 epoch(s). Epoch loss: 0.185467679053545.  Time of epoch:0:00:00.065493
+
+Train Epoch: 679 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.233600
+
+Finish 679 epoch(s). Epoch loss: 0.18352748453617096.  Time of epoch:0:00:00.105379
+
+Train Epoch: 680 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.253331
+
+Finish 680 epoch(s). Epoch loss: 0.18253790773451328.  Time of epoch:0:00:00.079270
+
+Train Epoch: 681 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.155930
+
+Finish 681 epoch(s). Epoch loss: 0.1675687851384282.  Time of epoch:0:00:00.050953
+
+Train Epoch: 682 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.183056
+
+Finish 682 epoch(s). Epoch loss: 0.20029521360993385.  Time of epoch:0:00:00.093712
+
+Train Epoch: 683 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.133487
+
+Finish 683 epoch(s). Epoch loss: 0.1919288970530033.  Time of epoch:0:00:00.102895
+
+Train Epoch: 684 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.149373
+
+Finish 684 epoch(s). Epoch loss: 0.18610738590359688.  Time of epoch:0:00:00.052029
+
+Train Epoch: 685 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.201847
+
+Finish 685 epoch(s). Epoch loss: 0.1745887165889144.  Time of epoch:0:00:00.082647
+
+Train Epoch: 686 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.117115
+
+Finish 686 epoch(s). Epoch loss: 0.1772604277357459.  Time of epoch:0:00:00.105226
+
+Train Epoch: 687 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.182003
+
+Finish 687 epoch(s). Epoch loss: 0.17289795354008675.  Time of epoch:0:00:00.099736
+
+Train Epoch: 688 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.123134
+
+Finish 688 epoch(s). Epoch loss: 0.19285070057958364.  Time of epoch:0:00:00.103635
+
+Train Epoch: 689 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.196867
+
+Finish 689 epoch(s). Epoch loss: 0.17296403087675571.  Time of epoch:0:00:00.097810
+
+Train Epoch: 690 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.219004
+
+Finish 690 epoch(s). Epoch loss: 0.1846834858879447.  Time of epoch:0:00:00.078476
+
+Train Epoch: 691 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.186855
+
+Finish 691 epoch(s). Epoch loss: 0.1708449274301529.  Time of epoch:0:00:00.099296
+
+Train Epoch: 692 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.203668
+
+Finish 692 epoch(s). Epoch loss: 0.18644039891660213.  Time of epoch:0:00:00.110791
+
+Train Epoch: 693 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.157135
+
+Finish 693 epoch(s). Epoch loss: 0.1783687360584736.  Time of epoch:0:00:00.133949
+
+Train Epoch: 694 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.206203
+
+Finish 694 epoch(s). Epoch loss: 0.1937728226184845.  Time of epoch:0:00:00.088643
+
+Train Epoch: 695 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.222330
+
+Finish 695 epoch(s). Epoch loss: 0.17867682874202728.  Time of epoch:0:00:00.072924
+
+Train Epoch: 696 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.165930
+
+Finish 696 epoch(s). Epoch loss: 0.16475600935518742.  Time of epoch:0:00:00.088188
+
+Train Epoch: 697 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.135491
+
+Finish 697 epoch(s). Epoch loss: 0.1925677377730608.  Time of epoch:0:00:00.072967
+
+Train Epoch: 698 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.148749
+
+Finish 698 epoch(s). Epoch loss: 0.1709168776869774.  Time of epoch:0:00:00.117921
+
+Train Epoch: 699 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.150401
+
+Finish 699 epoch(s). Epoch loss: 0.18424597568809986.  Time of epoch:0:00:00.140932
+
+Train Epoch: 700 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.194321
+
+Finish 700 epoch(s). Epoch loss: 0.18970993906259537.  Time of epoch:0:00:00.103369
+
+Train Epoch: 701 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.167806
+
+Finish 701 epoch(s). Epoch loss: 0.18939940445125103.  Time of epoch:0:00:00.102180
+
+Train Epoch: 702 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.155657
+
+Finish 702 epoch(s). Epoch loss: 0.19547196477651596.  Time of epoch:0:00:00.097667
+
+Train Epoch: 703 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.180722
+
+Finish 703 epoch(s). Epoch loss: 0.17782060150057077.  Time of epoch:0:00:00.090704
+
+Train Epoch: 704 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.159584
+
+Finish 704 epoch(s). Epoch loss: 0.18189304694533348.  Time of epoch:0:00:00.134689
+
+Train Epoch: 705 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.183901
+
+Finish 705 epoch(s). Epoch loss: 0.1727480236440897.  Time of epoch:0:00:00.111708
+
+Train Epoch: 706 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.191040
+
+Finish 706 epoch(s). Epoch loss: 0.1789767239242792.  Time of epoch:0:00:00.081049
+
+Train Epoch: 707 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.234603
+
+Finish 707 epoch(s). Epoch loss: 0.18704078532755375.  Time of epoch:0:00:00.086579
+
+Train Epoch: 708 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.208585
+
+Finish 708 epoch(s). Epoch loss: 0.16924587823450565.  Time of epoch:0:00:00.100751
+
+Train Epoch: 709 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.144094
+
+Finish 709 epoch(s). Epoch loss: 0.15816961973905563.  Time of epoch:0:00:00.098449
+
+Train Epoch: 710 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.146447
+
+Finish 710 epoch(s). Epoch loss: 0.17345859203487635.  Time of epoch:0:00:00.133276
+
+Train Epoch: 711 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.121405
+
+Finish 711 epoch(s). Epoch loss: 0.17321743443608284.  Time of epoch:0:00:00.107312
+
+Train Epoch: 712 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.198604
+
+Finish 712 epoch(s). Epoch loss: 0.18692616745829582.  Time of epoch:0:00:00.275981
+
+Train Epoch: 713 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.224334
+
+Finish 713 epoch(s). Epoch loss: 0.1770426407456398.  Time of epoch:0:00:00.213608
+
+Train Epoch: 714 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.179515
+
+Finish 714 epoch(s). Epoch loss: 0.19248276576399803.  Time of epoch:0:00:00.177531
+
+Train Epoch: 715 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.139574
+
+Finish 715 epoch(s). Epoch loss: 0.18477310426533222.  Time of epoch:0:00:00.129883
+
+Train Epoch: 716 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.175234
+
+Finish 716 epoch(s). Epoch loss: 0.18720813281834126.  Time of epoch:0:00:00.095672
+
+Train Epoch: 717 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.128107
+
+Finish 717 epoch(s). Epoch loss: 0.1760477079078555.  Time of epoch:0:00:00.152153
+
+Train Epoch: 718 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.197663
+
+Finish 718 epoch(s). Epoch loss: 0.18588100746273994.  Time of epoch:0:00:00.167702
+
+Train Epoch: 719 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.176263
+
+Finish 719 epoch(s). Epoch loss: 0.1801661653444171.  Time of epoch:0:00:00.106763
+
+Train Epoch: 720 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.189876
+
+Finish 720 epoch(s). Epoch loss: 0.17416905984282494.  Time of epoch:0:00:00.162720
+
+Train Epoch: 721 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.203360
+
+Finish 721 epoch(s). Epoch loss: 0.1736320648342371.  Time of epoch:0:00:00.081855
+
+Train Epoch: 722 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.159142
+
+Finish 722 epoch(s). Epoch loss: 0.17853190563619137.  Time of epoch:0:00:00.073178
+
+Train Epoch: 723 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.206613
+
+Finish 723 epoch(s). Epoch loss: 0.17915964499115944.  Time of epoch:0:00:00.062765
+
+Train Epoch: 724 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.288439
+
+Finish 724 epoch(s). Epoch loss: 0.18384162709116936.  Time of epoch:0:00:00.101948
+
+Train Epoch: 725 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.242045
+
+Finish 725 epoch(s). Epoch loss: 0.20342608727514744.  Time of epoch:0:00:00.153495
+
+Train Epoch: 726 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.126918
+
+Finish 726 epoch(s). Epoch loss: 0.15948989149183035.  Time of epoch:0:00:00.093831
+
+Train Epoch: 727 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.187545
+
+Finish 727 epoch(s). Epoch loss: 0.184410210698843.  Time of epoch:0:00:00.060979
+
+Train Epoch: 728 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.144572
+
+Finish 728 epoch(s). Epoch loss: 0.19235237874090672.  Time of epoch:0:00:00.055555
+
+Train Epoch: 729 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.174338
+
+Finish 729 epoch(s). Epoch loss: 0.18170794006437063.  Time of epoch:0:00:00.082006
+
+Train Epoch: 730 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.099894
+
+Finish 730 epoch(s). Epoch loss: 0.15822748374193907.  Time of epoch:0:00:00.082356
+
+Train Epoch: 731 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.135545
+
+Finish 731 epoch(s). Epoch loss: 0.1866223495453596.  Time of epoch:0:00:00.080011
+
+Train Epoch: 732 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.207781
+
+Finish 732 epoch(s). Epoch loss: 0.19658963195979595.  Time of epoch:0:00:00.064458
+
+Train Epoch: 733 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.148515
+
+Finish 733 epoch(s). Epoch loss: 0.1772098420187831.  Time of epoch:0:00:00.130084
+
+Train Epoch: 734 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.229358
+
+Finish 734 epoch(s). Epoch loss: 0.16728522442281246.  Time of epoch:0:00:00.096113
+
+Train Epoch: 735 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.190249
+
+Finish 735 epoch(s). Epoch loss: 0.17481968365609646.  Time of epoch:0:00:00.094222
+
+Train Epoch: 736 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.188266
+
+Finish 736 epoch(s). Epoch loss: 0.1848573237657547.  Time of epoch:0:00:00.075528
+
+Train Epoch: 737 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.150324
+
+Finish 737 epoch(s). Epoch loss: 0.18129445612430573.  Time of epoch:0:00:00.068655
+
+Train Epoch: 738 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.176858
+
+Finish 738 epoch(s). Epoch loss: 0.17970125377178192.  Time of epoch:0:00:00.075575
+
+Train Epoch: 739 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.145860
+
+Finish 739 epoch(s). Epoch loss: 0.17616700381040573.  Time of epoch:0:00:00.099086
+
+Train Epoch: 740 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.196835
+
+Finish 740 epoch(s). Epoch loss: 0.19309473223984241.  Time of epoch:0:00:00.087301
+
+Train Epoch: 741 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.177187
+
+Finish 741 epoch(s). Epoch loss: 0.17977111972868443.  Time of epoch:0:00:00.085203
+
+Train Epoch: 742 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.180391
+
+Finish 742 epoch(s). Epoch loss: 0.187466436997056.  Time of epoch:0:00:00.073742
+
+Train Epoch: 743 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.302758
+
+Finish 743 epoch(s). Epoch loss: 0.19812671560794115.  Time of epoch:0:00:00.069957
+
+Train Epoch: 744 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.218520
+
+Finish 744 epoch(s). Epoch loss: 0.18919637240469456.  Time of epoch:0:00:00.099280
+
+Train Epoch: 745 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.175939
+
+Finish 745 epoch(s). Epoch loss: 0.17866290546953678.  Time of epoch:0:00:00.094255
+
+Train Epoch: 746 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.233096
+
+Finish 746 epoch(s). Epoch loss: 0.18371687084436417.  Time of epoch:0:00:00.061113
+
+Train Epoch: 747 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.221551
+
+Finish 747 epoch(s). Epoch loss: 0.199939944781363.  Time of epoch:0:00:00.086974
+
+Train Epoch: 748 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.225932
+
+Finish 748 epoch(s). Epoch loss: 0.17652142979204655.  Time of epoch:0:00:00.102587
+
+Train Epoch: 749 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.195162
+
+Finish 749 epoch(s). Epoch loss: 0.18550955504179.  Time of epoch:0:00:00.084178
+
+Train Epoch: 750 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.183358
+
+Finish 750 epoch(s). Epoch loss: 0.17932821437716484.  Time of epoch:0:00:00.122349
+
+Train Epoch: 751 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.131840
+
+Finish 751 epoch(s). Epoch loss: 0.18257039971649647.  Time of epoch:0:00:00.092233
+
+Train Epoch: 752 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.241698
+
+Finish 752 epoch(s). Epoch loss: 0.19043322652578354.  Time of epoch:0:00:00.091314
+
+Train Epoch: 753 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.219292
+
+Finish 753 epoch(s). Epoch loss: 0.17938221246004105.  Time of epoch:0:00:00.062178
+
+Train Epoch: 754 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.204546
+
+Finish 754 epoch(s). Epoch loss: 0.18173964507877827.  Time of epoch:0:00:00.109555
+
+Train Epoch: 755 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.223984
+
+Finish 755 epoch(s). Epoch loss: 0.17683787550777197.  Time of epoch:0:00:00.097338
+
+Train Epoch: 756 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.171211
+
+Finish 756 epoch(s). Epoch loss: 0.1881496962159872.  Time of epoch:0:00:00.164050
+
+Train Epoch: 757 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.225915
+
+Finish 757 epoch(s). Epoch loss: 0.18529509380459785.  Time of epoch:0:00:00.069589
+
+Train Epoch: 758 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.180973
+
+Finish 758 epoch(s). Epoch loss: 0.179295526817441.  Time of epoch:0:00:00.097508
+
+Train Epoch: 759 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.223145
+
+Finish 759 epoch(s). Epoch loss: 0.19547765888273716.  Time of epoch:0:00:00.126385
+
+Train Epoch: 760 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.233453
+
+Finish 760 epoch(s). Epoch loss: 0.17695436906069517.  Time of epoch:0:00:00.135194
+
+Train Epoch: 761 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.144992
+
+Finish 761 epoch(s). Epoch loss: 0.17427974101155996.  Time of epoch:0:00:00.102408
+
+Train Epoch: 762 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.199748
+
+Finish 762 epoch(s). Epoch loss: 0.18972746841609478.  Time of epoch:0:00:00.079072
+
+Train Epoch: 763 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.210836
+
+Finish 763 epoch(s). Epoch loss: 0.18104324117302895.  Time of epoch:0:00:00.060942
+
+Train Epoch: 764 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.245036
+
+Finish 764 epoch(s). Epoch loss: 0.19089292734861374.  Time of epoch:0:00:00.083776
+
+Train Epoch: 765 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.139033
+
+Finish 765 epoch(s). Epoch loss: 0.17626487370580435.  Time of epoch:0:00:00.118881
+
+Train Epoch: 766 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.208283
+
+Finish 766 epoch(s). Epoch loss: 0.17510820925235748.  Time of epoch:0:00:00.074749
+
+Train Epoch: 767 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.187113
+
+Finish 767 epoch(s). Epoch loss: 0.19567635841667652.  Time of epoch:0:00:00.115057
+
+Train Epoch: 768 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.157847
+
+Finish 768 epoch(s). Epoch loss: 0.20794902741909027.  Time of epoch:0:00:00.103105
+
+Train Epoch: 769 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.188659
+
+Finish 769 epoch(s). Epoch loss: 0.15923900064080954.  Time of epoch:0:00:00.079796
+
+Train Epoch: 770 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.165375
+
+Finish 770 epoch(s). Epoch loss: 0.15816431678831577.  Time of epoch:0:00:00.102814
+
+Train Epoch: 771 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.150452
+
+Finish 771 epoch(s). Epoch loss: 0.19408541545271873.  Time of epoch:0:00:00.112735
+
+Train Epoch: 772 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.262487
+
+Finish 772 epoch(s). Epoch loss: 0.18440882861614227.  Time of epoch:0:00:00.110665
+
+Train Epoch: 773 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.213653
+
+Finish 773 epoch(s). Epoch loss: 0.18511239252984524.  Time of epoch:0:00:00.104498
+
+Train Epoch: 774 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.144327
+
+Finish 774 epoch(s). Epoch loss: 0.1825617915019393.  Time of epoch:0:00:00.092359
+
+Train Epoch: 775 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.303883
+
+Finish 775 epoch(s). Epoch loss: 0.21211813110858202.  Time of epoch:0:00:00.109948
+
+Train Epoch: 776 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.120351
+
+Finish 776 epoch(s). Epoch loss: 0.1765914298593998.  Time of epoch:0:00:00.094055
+
+Train Epoch: 777 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.150678
+
+Finish 777 epoch(s). Epoch loss: 0.16335704736411572.  Time of epoch:0:00:00.117774
+
+Train Epoch: 778 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.155652
+
+Finish 778 epoch(s). Epoch loss: 0.17922753747552633.  Time of epoch:0:00:00.101311
+
+Train Epoch: 779 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.186891
+
+Finish 779 epoch(s). Epoch loss: 0.19575429148972034.  Time of epoch:0:00:00.096072
+
+Train Epoch: 780 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.178721
+
+Finish 780 epoch(s). Epoch loss: 0.17549887672066689.  Time of epoch:0:00:00.084317
+
+Train Epoch: 781 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.209788
+
+Finish 781 epoch(s). Epoch loss: 0.17750822566449642.  Time of epoch:0:00:00.102785
+
+Train Epoch: 782 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.170382
+
+Finish 782 epoch(s). Epoch loss: 0.1796471420675516.  Time of epoch:0:00:00.110164
+
+Train Epoch: 783 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.239698
+
+Finish 783 epoch(s). Epoch loss: 0.17108321469277143.  Time of epoch:0:00:00.090961
+
+Train Epoch: 784 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.116710
+
+Finish 784 epoch(s). Epoch loss: 0.1580872591584921.  Time of epoch:0:00:00.099539
+
+Train Epoch: 785 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.234231
+
+Finish 785 epoch(s). Epoch loss: 0.19941805582493544.  Time of epoch:0:00:00.105173
+
+Train Epoch: 786 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.161781
+
+Finish 786 epoch(s). Epoch loss: 0.18053558841347694.  Time of epoch:0:00:00.098344
+
+Train Epoch: 787 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.189706
+
+Finish 787 epoch(s). Epoch loss: 0.18441540095955133.  Time of epoch:0:00:00.072360
+
+Train Epoch: 788 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.186713
+
+Finish 788 epoch(s). Epoch loss: 0.17660001944750547.  Time of epoch:0:00:00.098388
+
+Train Epoch: 789 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.169765
+
+Finish 789 epoch(s). Epoch loss: 0.1819099597632885.  Time of epoch:0:00:00.106789
+
+Train Epoch: 790 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.179683
+
+Finish 790 epoch(s). Epoch loss: 0.17265811376273632.  Time of epoch:0:00:00.148844
+
+Train Epoch: 791 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.132431
+
+Finish 791 epoch(s). Epoch loss: 0.164908517152071.  Time of epoch:0:00:00.127204
+
+Train Epoch: 792 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.291413
+
+Finish 792 epoch(s). Epoch loss: 0.1919333916157484.  Time of epoch:0:00:00.106364
+
+Train Epoch: 793 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.259114
+
+Finish 793 epoch(s). Epoch loss: 0.18469167314469814.  Time of epoch:0:00:00.100911
+
+Train Epoch: 794 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.201047
+
+Finish 794 epoch(s). Epoch loss: 0.1713483538478613.  Time of epoch:0:00:00.091412
+
+Train Epoch: 795 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.193682
+
+Finish 795 epoch(s). Epoch loss: 0.16561211366206408.  Time of epoch:0:00:00.089377
+
+Train Epoch: 796 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.190992
+
+Finish 796 epoch(s). Epoch loss: 0.17990207858383656.  Time of epoch:0:00:00.079742
+
+Train Epoch: 797 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.216906
+
+Finish 797 epoch(s). Epoch loss: 0.19393145851790905.  Time of epoch:0:00:00.079456
+
+Train Epoch: 798 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.170418
+
+Finish 798 epoch(s). Epoch loss: 0.1722761169075966.  Time of epoch:0:00:00.096525
+
+Train Epoch: 799 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.121725
+
+Finish 799 epoch(s). Epoch loss: 0.18658119067549706.  Time of epoch:0:00:00.081485
+
+Train Epoch: 800 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.227893
+
+Finish 800 epoch(s). Epoch loss: 0.1785131860524416.  Time of epoch:0:00:00.109329
+
+Train Epoch: 801 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.181417
+
+Finish 801 epoch(s). Epoch loss: 0.19628744758665562.  Time of epoch:0:00:00.083859
+
+Train Epoch: 802 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.197058
+
+Finish 802 epoch(s). Epoch loss: 0.17908713221549988.  Time of epoch:0:00:00.083977
+
+Train Epoch: 803 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.165184
+
+Finish 803 epoch(s). Epoch loss: 0.17489144951105118.  Time of epoch:0:00:00.088896
+
+Train Epoch: 804 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.117055
+
+Finish 804 epoch(s). Epoch loss: 0.194536030292511.  Time of epoch:0:00:00.108640
+
+Train Epoch: 805 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.159397
+
+Finish 805 epoch(s). Epoch loss: 0.1831119153648615.  Time of epoch:0:00:00.094726
+
+Train Epoch: 806 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.206619
+
+Finish 806 epoch(s). Epoch loss: 0.17836878634989262.  Time of epoch:0:00:00.078454
+
+Train Epoch: 807 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.129847
+
+Finish 807 epoch(s). Epoch loss: 0.18315203487873077.  Time of epoch:0:00:00.122359
+
+Train Epoch: 808 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.135169
+
+Finish 808 epoch(s). Epoch loss: 0.1773723904043436.  Time of epoch:0:00:00.093897
+
+Train Epoch: 809 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.212177
+
+Finish 809 epoch(s). Epoch loss: 0.19701314717531204.  Time of epoch:0:00:00.094844
+
+Train Epoch: 810 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.192198
+
+Finish 810 epoch(s). Epoch loss: 0.17667627427726984.  Time of epoch:0:00:00.132668
+
+Train Epoch: 811 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.183099
+
+Finish 811 epoch(s). Epoch loss: 0.18395840004086494.  Time of epoch:0:00:00.122780
+
+Train Epoch: 812 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.169995
+
+Finish 812 epoch(s). Epoch loss: 0.18401733227074146.  Time of epoch:0:00:00.087107
+
+Train Epoch: 813 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.160649
+
+Finish 813 epoch(s). Epoch loss: 0.178867032751441.  Time of epoch:0:00:00.063333
+
+Train Epoch: 814 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.249789
+
+Finish 814 epoch(s). Epoch loss: 0.19077188521623611.  Time of epoch:0:00:00.047176
+
+Train Epoch: 815 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.166830
+
+Finish 815 epoch(s). Epoch loss: 0.17054097820073366.  Time of epoch:0:00:00.045388
+
+Train Epoch: 816 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.254087
+
+Finish 816 epoch(s). Epoch loss: 0.1894697453826666.  Time of epoch:0:00:00.057024
+
+Train Epoch: 817 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.189898
+
+Finish 817 epoch(s). Epoch loss: 0.17470784671604633.  Time of epoch:0:00:00.085287
+
+Train Epoch: 818 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.117604
+
+Finish 818 epoch(s). Epoch loss: 0.186399282887578.  Time of epoch:0:00:00.107451
+
+Train Epoch: 819 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.145826
+
+Finish 819 epoch(s). Epoch loss: 0.18506249599158764.  Time of epoch:0:00:00.096614
+
+Train Epoch: 820 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.224683
+
+Finish 820 epoch(s). Epoch loss: 0.1787539692595601.  Time of epoch:0:00:00.084010
+
+Train Epoch: 821 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.187742
+
+Finish 821 epoch(s). Epoch loss: 0.1851118030026555.  Time of epoch:0:00:00.089412
+
+Train Epoch: 822 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.172555
+
+Finish 822 epoch(s). Epoch loss: 0.17309408634901047.  Time of epoch:0:00:00.134763
+
+Train Epoch: 823 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.251910
+
+Finish 823 epoch(s). Epoch loss: 0.17624566704034805.  Time of epoch:0:00:00.142471
+
+Train Epoch: 824 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.157248
+
+Finish 824 epoch(s). Epoch loss: 0.15594886057078838.  Time of epoch:0:00:00.133536
+
+Train Epoch: 825 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.179058
+
+Finish 825 epoch(s). Epoch loss: 0.15488861594349146.  Time of epoch:0:00:00.115993
+
+Train Epoch: 826 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.177581
+
+Finish 826 epoch(s). Epoch loss: 0.18914413265883923.  Time of epoch:0:00:00.099925
+
+Train Epoch: 827 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.211079
+
+Finish 827 epoch(s). Epoch loss: 0.1838913056999445.  Time of epoch:0:00:00.087022
+
+Train Epoch: 828 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.149371
+
+Finish 828 epoch(s). Epoch loss: 0.16655353177338839.  Time of epoch:0:00:00.083749
+
+Train Epoch: 829 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.146116
+
+Finish 829 epoch(s). Epoch loss: 0.18704058229923248.  Time of epoch:0:00:00.125269
+
+Train Epoch: 830 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.194927
+
+Finish 830 epoch(s). Epoch loss: 0.16934082750231028.  Time of epoch:0:00:00.088554
+
+Train Epoch: 831 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.170478
+
+Finish 831 epoch(s). Epoch loss: 0.19685361720621586.  Time of epoch:0:00:00.080344
+
+Train Epoch: 832 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.215495
+
+Finish 832 epoch(s). Epoch loss: 0.1815397795289755.  Time of epoch:0:00:00.082778
+
+Train Epoch: 833 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.241822
+
+Finish 833 epoch(s). Epoch loss: 0.19862139597535133.  Time of epoch:0:00:00.085701
+
+Train Epoch: 834 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.141686
+
+Finish 834 epoch(s). Epoch loss: 0.19239057414233685.  Time of epoch:0:00:00.171650
+
+Train Epoch: 835 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.133922
+
+Finish 835 epoch(s). Epoch loss: 0.1888358760625124.  Time of epoch:0:00:00.099559
+
+Train Epoch: 836 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.178711
+
+Finish 836 epoch(s). Epoch loss: 0.18250402808189392.  Time of epoch:0:00:00.088321
+
+Train Epoch: 837 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.148503
+
+Finish 837 epoch(s). Epoch loss: 0.18590966425836086.  Time of epoch:0:00:00.087070
+
+Train Epoch: 838 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.138314
+
+Finish 838 epoch(s). Epoch loss: 0.1765749827027321.  Time of epoch:0:00:00.093297
+
+Train Epoch: 839 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.161166
+
+Finish 839 epoch(s). Epoch loss: 0.17701703682541847.  Time of epoch:0:00:00.085600
+
+Train Epoch: 840 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.234455
+
+Finish 840 epoch(s). Epoch loss: 0.18288526870310307.  Time of epoch:0:00:00.088873
+
+Train Epoch: 841 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.192310
+
+Finish 841 epoch(s). Epoch loss: 0.18611192144453526.  Time of epoch:0:00:00.093659
+
+Train Epoch: 842 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.252511
+
+Finish 842 epoch(s). Epoch loss: 0.19133812189102173.  Time of epoch:0:00:00.084968
+
+Train Epoch: 843 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.157912
+
+Finish 843 epoch(s). Epoch loss: 0.16898367274552584.  Time of epoch:0:00:00.117235
+
+Train Epoch: 844 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.197803
+
+Finish 844 epoch(s). Epoch loss: 0.1802742499858141.  Time of epoch:0:00:00.139620
+
+Train Epoch: 845 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.149201
+
+Finish 845 epoch(s). Epoch loss: 0.1840204382315278.  Time of epoch:0:00:00.146097
+
+Train Epoch: 846 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.200071
+
+Finish 846 epoch(s). Epoch loss: 0.17663440108299255.  Time of epoch:0:00:00.151902
+
+Train Epoch: 847 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.161335
+
+Finish 847 epoch(s). Epoch loss: 0.1902557872235775.  Time of epoch:0:00:00.108635
+
+Train Epoch: 848 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.197955
+
+Finish 848 epoch(s). Epoch loss: 0.18095180951058865.  Time of epoch:0:00:00.105309
+
+Train Epoch: 849 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.128289
+
+Finish 849 epoch(s). Epoch loss: 0.1791017074137926.  Time of epoch:0:00:00.118459
+
+Train Epoch: 850 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.254146
+
+Finish 850 epoch(s). Epoch loss: 0.17950343526899815.  Time of epoch:0:00:00.103356
+
+Train Epoch: 851 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.183599
+
+Finish 851 epoch(s). Epoch loss: 0.1854002457112074.  Time of epoch:0:00:00.069262
+
+Train Epoch: 852 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.247965
+
+Finish 852 epoch(s). Epoch loss: 0.17697847355157137.  Time of epoch:0:00:00.048430
+
+Train Epoch: 853 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.154169
+
+Finish 853 epoch(s). Epoch loss: 0.1841874159872532.  Time of epoch:0:00:00.047214
+
+Train Epoch: 854 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.165709
+
+Finish 854 epoch(s). Epoch loss: 0.1943185981363058.  Time of epoch:0:00:00.047863
+
+Train Epoch: 855 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.200021
+
+Finish 855 epoch(s). Epoch loss: 0.175601358525455.  Time of epoch:0:00:00.048103
+
+Train Epoch: 856 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.155822
+
+Finish 856 epoch(s). Epoch loss: 0.1805301895365119.  Time of epoch:0:00:00.074583
+
+Train Epoch: 857 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.243254
+
+Finish 857 epoch(s). Epoch loss: 0.17257707007229328.  Time of epoch:0:00:00.083430
+
+Train Epoch: 858 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.183570
+
+Finish 858 epoch(s). Epoch loss: 0.1720132902264595.  Time of epoch:0:00:00.074048
+
+Train Epoch: 859 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.145335
+
+Finish 859 epoch(s). Epoch loss: 0.1680609779432416.  Time of epoch:0:00:00.075192
+
+Train Epoch: 860 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.197105
+
+Finish 860 epoch(s). Epoch loss: 0.18537278100848198.  Time of epoch:0:00:00.152820
+
+Train Epoch: 861 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.223297
+
+Finish 861 epoch(s). Epoch loss: 0.1959641706198454.  Time of epoch:0:00:00.095618
+
+Train Epoch: 862 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.190271
+
+Finish 862 epoch(s). Epoch loss: 0.17167792282998562.  Time of epoch:0:00:00.116636
+
+Train Epoch: 863 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.209266
+
+Finish 863 epoch(s). Epoch loss: 0.18385570030659437.  Time of epoch:0:00:00.074035
+
+Train Epoch: 864 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.195630
+
+Finish 864 epoch(s). Epoch loss: 0.19706536643207073.  Time of epoch:0:00:00.083502
+
+Train Epoch: 865 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.234659
+
+Finish 865 epoch(s). Epoch loss: 0.18092013336718082.  Time of epoch:0:00:00.090606
+
+Train Epoch: 866 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.125419
+
+Finish 866 epoch(s). Epoch loss: 0.17561231181025505.  Time of epoch:0:00:00.075585
+
+Train Epoch: 867 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.201545
+
+Finish 867 epoch(s). Epoch loss: 0.19579285942018032.  Time of epoch:0:00:00.071701
+
+Train Epoch: 868 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.153819
+
+Finish 868 epoch(s). Epoch loss: 0.17173416540026665.  Time of epoch:0:00:00.073209
+
+Train Epoch: 869 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.165085
+
+Finish 869 epoch(s). Epoch loss: 0.1761049274355173.  Time of epoch:0:00:00.072147
+
+Train Epoch: 870 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.128965
+
+Finish 870 epoch(s). Epoch loss: 0.179539549164474.  Time of epoch:0:00:00.084683
+
+Train Epoch: 871 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.174724
+
+Finish 871 epoch(s). Epoch loss: 0.17916646599769592.  Time of epoch:0:00:00.084163
+
+Train Epoch: 872 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.136041
+
+Finish 872 epoch(s). Epoch loss: 0.17506793700158596.  Time of epoch:0:00:00.072637
+
+Train Epoch: 873 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.212405
+
+Finish 873 epoch(s). Epoch loss: 0.18650422058999538.  Time of epoch:0:00:00.071233
+
+Train Epoch: 874 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.202743
+
+Finish 874 epoch(s). Epoch loss: 0.19094475638121367.  Time of epoch:0:00:00.071543
+
+Train Epoch: 875 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.217266
+
+Finish 875 epoch(s). Epoch loss: 0.18034113571047783.  Time of epoch:0:00:00.071071
+
+Train Epoch: 876 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.149982
+
+Finish 876 epoch(s). Epoch loss: 0.1721418173983693.  Time of epoch:0:00:00.074442
+
+Train Epoch: 877 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.159003
+
+Finish 877 epoch(s). Epoch loss: 0.18421032093465328.  Time of epoch:0:00:00.082964
+
+Train Epoch: 878 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.228916
+
+Finish 878 epoch(s). Epoch loss: 0.1855635792016983.  Time of epoch:0:00:00.078906
+
+Train Epoch: 879 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.215571
+
+Finish 879 epoch(s). Epoch loss: 0.1697901776060462.  Time of epoch:0:00:00.045990
+
+Train Epoch: 880 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.138138
+
+Finish 880 epoch(s). Epoch loss: 0.185077715665102.  Time of epoch:0:00:00.045722
+
+Train Epoch: 881 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.227392
+
+Finish 881 epoch(s). Epoch loss: 0.2020834106951952.  Time of epoch:0:00:00.045594
+
+Train Epoch: 882 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.192443
+
+Finish 882 epoch(s). Epoch loss: 0.17967220395803452.  Time of epoch:0:00:00.062216
+
+Train Epoch: 883 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.236884
+
+Finish 883 epoch(s). Epoch loss: 0.19284519366919994.  Time of epoch:0:00:00.046289
+
+Train Epoch: 884 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.225222
+
+Finish 884 epoch(s). Epoch loss: 0.19219812750816345.  Time of epoch:0:00:00.045945
+
+Train Epoch: 885 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.127897
+
+Finish 885 epoch(s). Epoch loss: 0.17302743718028069.  Time of epoch:0:00:00.058174
+
+Train Epoch: 886 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.178508
+
+Finish 886 epoch(s). Epoch loss: 0.18451988510787487.  Time of epoch:0:00:00.075864
+
+Train Epoch: 887 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.219410
+
+Finish 887 epoch(s). Epoch loss: 0.17416434735059738.  Time of epoch:0:00:00.076612
+
+Train Epoch: 888 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.199516
+
+Finish 888 epoch(s). Epoch loss: 0.18113375268876553.  Time of epoch:0:00:00.075856
+
+Train Epoch: 889 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.181948
+
+Finish 889 epoch(s). Epoch loss: 0.16171392612159252.  Time of epoch:0:00:00.075772
+
+Train Epoch: 890 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.167239
+
+Finish 890 epoch(s). Epoch loss: 0.1837853416800499.  Time of epoch:0:00:00.075889
+
+Train Epoch: 891 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.211650
+
+Finish 891 epoch(s). Epoch loss: 0.18704444356262684.  Time of epoch:0:00:00.076223
+
+Train Epoch: 892 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.183609
+
+Finish 892 epoch(s). Epoch loss: 0.169493043795228.  Time of epoch:0:00:00.076778
+
+Train Epoch: 893 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.219395
+
+Finish 893 epoch(s). Epoch loss: 0.1929576462134719.  Time of epoch:0:00:00.076174
+
+Train Epoch: 894 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.247229
+
+Finish 894 epoch(s). Epoch loss: 0.191191166639328.  Time of epoch:0:00:00.076418
+
+Train Epoch: 895 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.163492
+
+Finish 895 epoch(s). Epoch loss: 0.175205297768116.  Time of epoch:0:00:00.076663
+
+Train Epoch: 896 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.188704
+
+Finish 896 epoch(s). Epoch loss: 0.1869958508759737.  Time of epoch:0:00:00.087776
+
+Train Epoch: 897 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.204675
+
+Finish 897 epoch(s). Epoch loss: 0.1867791973054409.  Time of epoch:0:00:00.097864
+
+Train Epoch: 898 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.151400
+
+Finish 898 epoch(s). Epoch loss: 0.19992569833993912.  Time of epoch:0:00:00.083463
+
+Train Epoch: 899 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.172695
+
+Finish 899 epoch(s). Epoch loss: 0.18967686593532562.  Time of epoch:0:00:00.076426
+
+Train Epoch: 900 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.219636
+
+Finish 900 epoch(s). Epoch loss: 0.1854786854237318.  Time of epoch:0:00:00.076365
+
+Train Epoch: 901 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.154367
+
+Finish 901 epoch(s). Epoch loss: 0.17613107431679964.  Time of epoch:0:00:00.076014
+
+Train Epoch: 902 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.125174
+
+Finish 902 epoch(s). Epoch loss: 0.1691855089738965.  Time of epoch:0:00:00.076622
+
+Train Epoch: 903 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.134845
+
+Finish 903 epoch(s). Epoch loss: 0.18416263442486525.  Time of epoch:0:00:00.076040
+
+Train Epoch: 904 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.152695
+
+Finish 904 epoch(s). Epoch loss: 0.18960832990705967.  Time of epoch:0:00:00.077221
+
+Train Epoch: 905 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.137880
+
+Finish 905 epoch(s). Epoch loss: 0.17616758309304714.  Time of epoch:0:00:00.076563
+
+Train Epoch: 906 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.206783
+
+Finish 906 epoch(s). Epoch loss: 0.18095577135682106.  Time of epoch:0:00:00.098420
+
+Train Epoch: 907 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.179494
+
+Finish 907 epoch(s). Epoch loss: 0.187492816708982.  Time of epoch:0:00:00.114830
+
+Train Epoch: 908 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.156281
+
+Finish 908 epoch(s). Epoch loss: 0.18061083927750587.  Time of epoch:0:00:00.105700
+
+Train Epoch: 909 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.156572
+
+Finish 909 epoch(s). Epoch loss: 0.17031060345470905.  Time of epoch:0:00:00.095468
+
+Train Epoch: 910 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.186998
+
+Finish 910 epoch(s). Epoch loss: 0.19006581604480743.  Time of epoch:0:00:00.072996
+
+Train Epoch: 911 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.119700
+
+Finish 911 epoch(s). Epoch loss: 0.1617597732692957.  Time of epoch:0:00:00.081592
+
+Train Epoch: 912 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.102670
+
+Finish 912 epoch(s). Epoch loss: 0.17757191974669695.  Time of epoch:0:00:00.085370
+
+Train Epoch: 913 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.274086
+
+Finish 913 epoch(s). Epoch loss: 0.19556596875190735.  Time of epoch:0:00:00.085383
+
+Train Epoch: 914 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.140922
+
+Finish 914 epoch(s). Epoch loss: 0.18966113962233067.  Time of epoch:0:00:00.080131
+
+Train Epoch: 915 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.154604
+
+Finish 915 epoch(s). Epoch loss: 0.16942819207906723.  Time of epoch:0:00:00.087862
+
+Train Epoch: 916 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.222650
+
+Finish 916 epoch(s). Epoch loss: 0.17493444681167603.  Time of epoch:0:00:00.078151
+
+Train Epoch: 917 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.142113
+
+Finish 917 epoch(s). Epoch loss: 0.18762849643826485.  Time of epoch:0:00:00.086449
+
+Train Epoch: 918 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.241302
+
+Finish 918 epoch(s). Epoch loss: 0.16860974207520485.  Time of epoch:0:00:00.092277
+
+Train Epoch: 919 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.184344
+
+Finish 919 epoch(s). Epoch loss: 0.19056802429258823.  Time of epoch:0:00:00.111302
+
+Train Epoch: 920 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.158198
+
+Finish 920 epoch(s). Epoch loss: 0.2014711471274495.  Time of epoch:0:00:00.108149
+
+Train Epoch: 921 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.184181
+
+Finish 921 epoch(s). Epoch loss: 0.18221010453999043.  Time of epoch:0:00:00.111105
+
+Train Epoch: 922 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.132412
+
+Finish 922 epoch(s). Epoch loss: 0.1856333091855049.  Time of epoch:0:00:00.123261
+
+Train Epoch: 923 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.157933
+
+Finish 923 epoch(s). Epoch loss: 0.18233477510511875.  Time of epoch:0:00:00.117128
+
+Train Epoch: 924 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.169575
+
+Finish 924 epoch(s). Epoch loss: 0.19229497946798801.  Time of epoch:0:00:00.102308
+
+Train Epoch: 925 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.183515
+
+Finish 925 epoch(s). Epoch loss: 0.18335724528878927.  Time of epoch:0:00:00.087386
+
+Train Epoch: 926 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.144358
+
+Finish 926 epoch(s). Epoch loss: 0.20494271628558636.  Time of epoch:0:00:00.131911
+
+Train Epoch: 927 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.105618
+
+Finish 927 epoch(s). Epoch loss: 0.18660880532115698.  Time of epoch:0:00:00.085453
+
+Train Epoch: 928 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.180913
+
+Finish 928 epoch(s). Epoch loss: 0.1861309725791216.  Time of epoch:0:00:00.084553
+
+Train Epoch: 929 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.262820
+
+Finish 929 epoch(s). Epoch loss: 0.1935191098600626.  Time of epoch:0:00:00.082544
+
+Train Epoch: 930 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.195050
+
+Finish 930 epoch(s). Epoch loss: 0.18784933164715767.  Time of epoch:0:00:00.128542
+
+Train Epoch: 931 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.153462
+
+Finish 931 epoch(s). Epoch loss: 0.19792191311717033.  Time of epoch:0:00:00.100501
+
+Train Epoch: 932 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.263219
+
+Finish 932 epoch(s). Epoch loss: 0.17443385440856218.  Time of epoch:0:00:00.085133
+
+Train Epoch: 933 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.246978
+
+Finish 933 epoch(s). Epoch loss: 0.17240963596850634.  Time of epoch:0:00:00.086977
+
+Train Epoch: 934 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.168233
+
+Finish 934 epoch(s). Epoch loss: 0.1631295531988144.  Time of epoch:0:00:00.093577
+
+Train Epoch: 935 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.208756
+
+Finish 935 epoch(s). Epoch loss: 0.18904267065227032.  Time of epoch:0:00:00.115532
+
+Train Epoch: 936 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.144090
+
+Finish 936 epoch(s). Epoch loss: 0.18604005500674248.  Time of epoch:0:00:00.088451
+
+Train Epoch: 937 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.206252
+
+Finish 937 epoch(s). Epoch loss: 0.17211523558944464.  Time of epoch:0:00:00.078427
+
+Train Epoch: 938 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.282980
+
+Finish 938 epoch(s). Epoch loss: 0.18435697816312313.  Time of epoch:0:00:00.100729
+
+Train Epoch: 939 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.120593
+
+Finish 939 epoch(s). Epoch loss: 0.1936551695689559.  Time of epoch:0:00:00.115404
+
+Train Epoch: 940 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.181510
+
+Finish 940 epoch(s). Epoch loss: 0.185937762260437.  Time of epoch:0:00:00.088331
+
+Train Epoch: 941 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.200025
+
+Finish 941 epoch(s). Epoch loss: 0.1913868710398674.  Time of epoch:0:00:00.077164
+
+Train Epoch: 942 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.295169
+
+Finish 942 epoch(s). Epoch loss: 0.1904559088870883.  Time of epoch:0:00:00.062077
+
+Train Epoch: 943 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.179382
+
+Finish 943 epoch(s). Epoch loss: 0.18436799943447113.  Time of epoch:0:00:00.116265
+
+Train Epoch: 944 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.210748
+
+Finish 944 epoch(s). Epoch loss: 0.19966476783156395.  Time of epoch:0:00:00.098658
+
+Train Epoch: 945 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.175643
+
+Finish 945 epoch(s). Epoch loss: 0.20373685844242573.  Time of epoch:0:00:00.099092
+
+Train Epoch: 946 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.201474
+
+Finish 946 epoch(s). Epoch loss: 0.18812108412384987.  Time of epoch:0:00:00.059765
+
+Train Epoch: 947 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.160671
+
+Finish 947 epoch(s). Epoch loss: 0.1801597811281681.  Time of epoch:0:00:00.088119
+
+Train Epoch: 948 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.158864
+
+Finish 948 epoch(s). Epoch loss: 0.17680366523563862.  Time of epoch:0:00:00.132007
+
+Train Epoch: 949 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.199668
+
+Finish 949 epoch(s). Epoch loss: 0.18355680629611015.  Time of epoch:0:00:00.090366
+
+Train Epoch: 950 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.179090
+
+Finish 950 epoch(s). Epoch loss: 0.16596268862485886.  Time of epoch:0:00:00.097337
+
+Train Epoch: 951 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.190884
+
+Finish 951 epoch(s). Epoch loss: 0.18880378641188145.  Time of epoch:0:00:00.093822
+
+Train Epoch: 952 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.192132
+
+Finish 952 epoch(s). Epoch loss: 0.17908906936645508.  Time of epoch:0:00:00.153344
+
+Train Epoch: 953 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.154063
+
+Finish 953 epoch(s). Epoch loss: 0.19083142094314098.  Time of epoch:0:00:00.105190
+
+Train Epoch: 954 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.156025
+
+Finish 954 epoch(s). Epoch loss: 0.17654642648994923.  Time of epoch:0:00:00.102642
+
+Train Epoch: 955 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.234723
+
+Finish 955 epoch(s). Epoch loss: 0.18916708789765835.  Time of epoch:0:00:00.088488
+
+Train Epoch: 956 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.133023
+
+Finish 956 epoch(s). Epoch loss: 0.17737713735550642.  Time of epoch:0:00:00.069495
+
+Train Epoch: 957 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.206312
+
+Finish 957 epoch(s). Epoch loss: 0.18332908861339092.  Time of epoch:0:00:00.078673
+
+Train Epoch: 958 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.147527
+
+Finish 958 epoch(s). Epoch loss: 0.17611441761255264.  Time of epoch:0:00:00.098341
+
+Train Epoch: 959 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.143414
+
+Finish 959 epoch(s). Epoch loss: 0.17190600000321865.  Time of epoch:0:00:00.073634
+
+Train Epoch: 960 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.150122
+
+Finish 960 epoch(s). Epoch loss: 0.17705616913735867.  Time of epoch:0:00:00.081167
+
+Train Epoch: 961 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.180273
+
+Finish 961 epoch(s). Epoch loss: 0.19616873003542423.  Time of epoch:0:00:00.074117
+
+Train Epoch: 962 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.214709
+
+Finish 962 epoch(s). Epoch loss: 0.1822547446936369.  Time of epoch:0:00:00.078803
+
+Train Epoch: 963 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.137985
+
+Finish 963 epoch(s). Epoch loss: 0.1837585512548685.  Time of epoch:0:00:00.088876
+
+Train Epoch: 964 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.141472
+
+Finish 964 epoch(s). Epoch loss: 0.16922423336654902.  Time of epoch:0:00:00.090349
+
+Train Epoch: 965 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.174928
+
+Finish 965 epoch(s). Epoch loss: 0.19272146187722683.  Time of epoch:0:00:00.072206
+
+Train Epoch: 966 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.210724
+
+Finish 966 epoch(s). Epoch loss: 0.19588866364210844.  Time of epoch:0:00:00.117168
+
+Train Epoch: 967 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.133041
+
+Finish 967 epoch(s). Epoch loss: 0.1730999369174242.  Time of epoch:0:00:00.062826
+
+Train Epoch: 968 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.116134
+
+Finish 968 epoch(s). Epoch loss: 0.1614284496754408.  Time of epoch:0:00:00.142730
+
+Train Epoch: 969 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.130352
+
+Finish 969 epoch(s). Epoch loss: 0.18962292559444904.  Time of epoch:0:00:00.116292
+
+Train Epoch: 970 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.193335
+
+Finish 970 epoch(s). Epoch loss: 0.19967051409184933.  Time of epoch:0:00:00.076155
+
+Train Epoch: 971 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.174807
+
+Finish 971 epoch(s). Epoch loss: 0.19375927560031414.  Time of epoch:0:00:00.090871
+
+Train Epoch: 972 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.200990
+
+Finish 972 epoch(s). Epoch loss: 0.20641271397471428.  Time of epoch:0:00:00.100402
+
+Train Epoch: 973 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.087918
+
+Finish 973 epoch(s). Epoch loss: 0.18701647967100143.  Time of epoch:0:00:00.112267
+
+Train Epoch: 974 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.181289
+
+Finish 974 epoch(s). Epoch loss: 0.1754567213356495.  Time of epoch:0:00:00.081049
+
+Train Epoch: 975 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.164379
+
+Finish 975 epoch(s). Epoch loss: 0.19364017993211746.  Time of epoch:0:00:00.153221
+
+Train Epoch: 976 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.158258
+
+Finish 976 epoch(s). Epoch loss: 0.17852975614368916.  Time of epoch:0:00:00.108986
+
+Train Epoch: 977 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.212848
+
+Finish 977 epoch(s). Epoch loss: 0.18410275876522064.  Time of epoch:0:00:00.084295
+
+Train Epoch: 978 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.211793
+
+Finish 978 epoch(s). Epoch loss: 0.18581947684288025.  Time of epoch:0:00:00.078764
+
+Train Epoch: 979 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.200862
+
+Finish 979 epoch(s). Epoch loss: 0.18712391145527363.  Time of epoch:0:00:00.126769
+
+Train Epoch: 980 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.212125
+
+Finish 980 epoch(s). Epoch loss: 0.18806767836213112.  Time of epoch:0:00:00.082951
+
+Train Epoch: 981 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.173216
+
+Finish 981 epoch(s). Epoch loss: 0.1824822910130024.  Time of epoch:0:00:00.087345
+
+Train Epoch: 982 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.146113
+
+Finish 982 epoch(s). Epoch loss: 0.18128441832959652.  Time of epoch:0:00:00.061324
+
+Train Epoch: 983 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.173947
+
+Finish 983 epoch(s). Epoch loss: 0.18783974833786488.  Time of epoch:0:00:00.064922
+
+Train Epoch: 984 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.197033
+
+Finish 984 epoch(s). Epoch loss: 0.1879387777298689.  Time of epoch:0:00:00.077662
+
+Train Epoch: 985 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.175276
+
+Finish 985 epoch(s). Epoch loss: 0.1738012582063675.  Time of epoch:0:00:00.077642
+
+Train Epoch: 986 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.167105
+
+Finish 986 epoch(s). Epoch loss: 0.1861917283385992.  Time of epoch:0:00:00.077046
+
+Train Epoch: 987 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.213261
+
+Finish 987 epoch(s). Epoch loss: 0.1842984315007925.  Time of epoch:0:00:00.076256
+
+Train Epoch: 988 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.081888
+
+Finish 988 epoch(s). Epoch loss: 0.1623001303523779.  Time of epoch:0:00:00.076473
+
+Train Epoch: 989 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.173730
+
+Finish 989 epoch(s). Epoch loss: 0.1666790647432208.  Time of epoch:0:00:00.085152
+
+Train Epoch: 990 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.146212
+
+Finish 990 epoch(s). Epoch loss: 0.17696366645395756.  Time of epoch:0:00:00.073674
+
+Train Epoch: 991 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.123502
+
+Finish 991 epoch(s). Epoch loss: 0.18795405700802803.  Time of epoch:0:00:00.077314
+
+Train Epoch: 992 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.213757
+
+Finish 992 epoch(s). Epoch loss: 0.16855723410844803.  Time of epoch:0:00:00.076446
+
+Train Epoch: 993 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.213013
+
+Finish 993 epoch(s). Epoch loss: 0.1809359360486269.  Time of epoch:0:00:00.076802
+
+Train Epoch: 994 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.205060
+
+Finish 994 epoch(s). Epoch loss: 0.18332851491868496.  Time of epoch:0:00:00.075741
+
+Train Epoch: 995 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.160189
+
+Finish 995 epoch(s). Epoch loss: 0.18631678447127342.  Time of epoch:0:00:00.095255
+
+Train Epoch: 996 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.173987
+
+Finish 996 epoch(s). Epoch loss: 0.18246998451650143.  Time of epoch:0:00:00.064836
+
+Train Epoch: 997 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.193413
+
+Finish 997 epoch(s). Epoch loss: 0.20153431966900826.  Time of epoch:0:00:00.076827
+
+Train Epoch: 998 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.213868
+
+Finish 998 epoch(s). Epoch loss: 0.18969962280243635.  Time of epoch:0:00:00.090727
+
+Train Epoch: 999 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.194316
+
+Finish 999 epoch(s). Epoch loss: 0.19041554257273674.  Time of epoch:0:00:00.078605
+
+Train Epoch: 1000 [0/490 (0%)] lr: 1.0000000000000004e-08	Loss: 0.259704
+
+Finish 1000 epoch(s). Epoch loss: 0.197680595330894.  Time of epoch:0:00:00.074336
+
+Prediction:
+RMSE:0.11448299884796143, R2 score:0.822431521365198, loss:0.0002244764764327556
+Prediction with uncertainty
+RMSE:0.133082777261734, R2 score:0.7935824180289535, ll:-5.786745548248291, loss:0.0002609466318972409
